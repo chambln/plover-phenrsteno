@@ -12,7 +12,7 @@ This sections describes how you can transcribe phonemes other than those printed
 
 | Phoneme | Stroke |
 | ------- | -------|
-| [o]     | `ae`   |
+| [ɒ]     | `ae`   |
 | [iː]    | `ɪʊ`   |
 | [uː]    | `eʊ`   |
 | [ɑː]    | `aɪʊ`  |
