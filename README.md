@@ -53,7 +53,8 @@ Phonemes under the right hand:
 # Development
 To-do:
 
-- [ ] Integrate with Plover's plugin manager
+- [ ] Integrate with [Plover's plugin manager][2]
 
 
 [1]: https://github.com/openstenoproject/plover "Plover GitHub repository"
+[2]: https://github.com/benoit-pierre/plover_plugins_manager "Plover Plugin Manager GitHub repository"
