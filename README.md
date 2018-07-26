@@ -7,45 +7,48 @@ Phonemic and non-rhotic English stenotype system for [Plover][1].
 This sections describes how you can transcribe phonemes other than those printed on the keys.
 
 ## Vowels
+Diphthongs like  and [eɪ̯] arise naturally from the layout. Strokes for other vowel sounds are in the table below.
 
-
-
-| Phoneme | Stroke |
-| ------- | -------|
-| [ɒ]     | `ae`   |
-| [iː]    | `ɪʊ`   |
-| [uː]    | `eʊ`   |
-| [ɑː]    | `aɪʊ`  |
-| [ɔː]    | `aeɪʊ` |
+| Vowel | Stroke |
+| ----- | -------|
+| [ɒ]   | `ae`   |
+| [iː]  | `ɪʊ`   |
+| [uː]  | `eʊ`   |
+| [ɑː]  | `aɪʊ`  |
+| [ɔː]  | `aeɪʊ` |
+| [əʊ̯]  | `aeʊ`  |
 
 
 ## Consonants
 
-Left-hand consonants:
+Phonemes under the left hand:
 
-| Initial phoneme | Left-hand stroke |
-| --------------- | ---------------- |
-| [f]             | `sb`             |
-| [v]             | `sd`             |
-| [k]             | `pb`             |
-| [l]             | `td`             |
-| [j]             | `wr`             |
-| [g]             | `pt`             |
-| [h]             | `ptw`            |
-| [n]             | `bd`             |
-| [m]             | `bdr`            |
-| [θ]             | `bt`             |
+| Initial consonant | Left-hand stroke |
+| ----------------- | ---------------- |
+| [f]               | `sb`             |
+| [v]               | `sd`             |
+| [k]               | `pb`             |
+| [l]               | `td`             |
+| [j]               | `wr`             |
+| [tʃ]              | `twr`            |
+| [dʒ]              | `dwr`            |
+| [ʃ]               | `swr`            |
+| [g]               | `pt`             |
+| [h]               | `ptw`            |
+| [n]               | `bd`             |
+| [m]               | `bdr`            |
+| [θ]               | `bt`             |
 
-Right-hand consonants:
+Phonemes under the right hand:
 
-| Final phoneme | Right-hand stroke |
-| ------------- | ----------------- |
-| [p]           | `ft`              |
-| [b]           | `ftʃ`             |
-| [k]           | `td`              |
-| [θ]           | `tdʃ`             |
-| [ŋ]           | `ng`              |
-| [m]           | `ftnd`            |
+| Final consonant | Right-hand stroke |
+| --------------- | ----------------- |
+| [p]             | `ft`              |
+| [b]             | `ftʃ`             |
+| [k]             | `td`              |
+| [θ]             | `tdʃ`             |
+| [ŋ]             | `ng`              |
+| [m]             | `ftnd`            |
 
 
 [1]: https://github.com/openstenoproject/plover
