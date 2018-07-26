@@ -10,13 +10,13 @@ This sections describes how you can transcribe phonemes other than those printed
 
 
 
-| Phoneme | Stroke (IPA) |
-| ------- | ------------ |
-| [o]     | `ae`         |
-| [iː]    | `ɪʊ`         |
-| [uː]    | `eʊ`         |
-| [ɑ]     | `aɪʊ`        |
-| [ɔ]     | `aeɪʊ`       |
+| Phoneme | Stroke |
+| ------- | -------|
+| [o]     | `ae`   |
+| [iː]    | `ɪʊ`   |
+| [uː]    | `eʊ`   |
+| [ɑ]     | `aɪʊ`  |
+| [ɔ]     | `aeɪʊ` |
 
 
 ## Consonants
