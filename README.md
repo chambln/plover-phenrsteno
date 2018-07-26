@@ -15,8 +15,8 @@ This sections describes how you can transcribe phonemes other than those printed
 | [o]     | `ae`   |
 | [iː]    | `ɪʊ`   |
 | [uː]    | `eʊ`   |
-| [ɑ]     | `aɪʊ`  |
-| [ɔ]     | `aeɪʊ` |
+| [ɑː]    | `aɪʊ`  |
+| [ɔː]    | `aeɪʊ` |
 
 
 ## Consonants
