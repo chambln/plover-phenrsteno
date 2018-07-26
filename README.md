@@ -50,5 +50,10 @@ Phonemes under the right hand:
 | [ŋ]             | `ng`              |
 | [m]             | `ftnd`            |
 
+# Development
+To-do:
 
-[1]: https://github.com/openstenoproject/plover
+- [ ] Integrate with Plover's plugin manager
+
+
+[1]: https://github.com/openstenoproject/plover "Plover GitHub repository"
