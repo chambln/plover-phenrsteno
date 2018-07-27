@@ -81,15 +81,38 @@ ORTHOGRAPHY_WORDLIST = 'american_english_words.txt'
 KEYMAPS = {
     'Keyboard': {
         '#' : ['1', '2', '3', '4', '5', '6', '7', '8', '9', '0'],
-        'A-': ['q'], 's-': ['a'], 'p-': ['w'], 'b-': ['s'], 't-': ['e'], 'd-': ['d'], 'w-': ['r'], 'r-': ['f'],
-        'a-': ['c'], 'e-': ['v'],
-        '*' : ['t', 'g', 'y', 'h'],
+
+        # Left-hand consonants      #  1  2  3  4
+        'A-': ['q'], 's-': ['a'],   #  A  p  t  w
+        'p-': ['w'], 'b-': ['s'],   #  s  b  d  r 
+        't-': ['e'], 'd-': ['d'],
+        'w-': ['r'], 'r-': ['f'],
+
+        # Left-hand vowels          #  5  0
+        'a-': ['c'], 'e-': ['v'],   #  a  e
+
+        # Undo key                  #  *
+        '*' : ['t', 'g', 'y', 'h'], 
+
+        # Right-hand vowels         #  I  U
         '-I': ['n'], '-U': ['m'],
-        '-f': ['u'], '-n': ['j'], '-t': ['i'], '-d': ['k'], '-S': ['o'], '-g': ['l'], '-l': ['p'], '-s': [';'], '-i': ['['], '-r': ['\''],
+
+        # Right-hand consonants     #  6  7  8  9
+        '-f': ['u'], '-n': ['j'],   #  f  t  S  l  i
+        '-t': ['i'], '-d': ['k'],   #  n  d  g  s  r
+        '-S': ['o'], '-g': ['l'],
+        '-l': ['p'], '-s': [';'],
+        '-i': ['['], '-r': ['\''],
+
+        # Other
         'arpeggiate': ['space'],
         'no-op': ['z', 'x', 'b', ',', '.', '/', ']', '\\']
     }
 }
 
 DICTIONARIES_ROOT = 'asset:plover:assets'
-DEFAULT_DICTIONARIES = ("phenr_commands.json", "phenr_main.json", "phenr_fingerspell.json")
+DEFAULT_DICTIONARIES = (
+    "phenrsteno/fingerspell.json",
+    "phenrsteno/main.json",
+    "phenrsteno/commands.json"
+)
