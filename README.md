@@ -7,7 +7,7 @@ Phonemic and non-rhotic English stenotype system for [Plover][1].
 This sections describes how you can transcribe phonemes other than those printed on the keys.
 
 ## Vowels
-Diphthongs like  and [eɪ] arise naturally from the layout. Strokes for other vowel sounds are in the table below.
+Diphthongs like [aɪ] and [eɪ] arise naturally from the layout. Strokes for other vowel sounds are in the table below.
 
 | Vowel | Stroke |
 | ----- | -------|
