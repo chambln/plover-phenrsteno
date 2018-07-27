@@ -1,6 +1,6 @@
 KEYS = (
-    # Layout is #ASPBTDWRAE*IUFNTDsGLS where 's' represents letter esh, and
-    # 'a' is under the left-pinky.
+    # Layout is #Aspbtdwrae*IUfntdSglsir where 'S' represents letter esh, and
+    # 'A' is under the left-pinky.
     '#',
     'A-', 's-', 'p-', 'b-', 't-', 'd-', 'w-', 'r-',
     'a-', 'e-',
@@ -79,7 +79,6 @@ ORTHOGRAPHY_RULES_ALIASES = {
 ORTHOGRAPHY_WORDLIST = 'american_english_words.txt'
 
 KEYMAPS = {
-    # Layout is #ASPBTDWRAE*IUFNTDsGLS where 's' represents letter esh
     'Keyboard': {
         '#' : ['1', '2', '3', '4', '5', '6', '7', '8', '9', '0'],
         'A-': ['q'], 's-': ['a'], 'p-': ['w'], 'b-': ['s'], 't-': ['e'], 'd-': ['d'], 'w-': ['r'], 'r-': ['f'],
