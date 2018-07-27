@@ -54,6 +54,10 @@ Phonemes under the right hand:
 To-do:
 
 - [ ] Integrate with [Plover's plugin manager][2]
+- [ ] Include JSON dictionaries for
+  - [ ] vocabulary
+  - [ ] affixes
+  - [ ] plover commands
 
 
 [1]: https://github.com/openstenoproject/plover "Plover GitHub repository"
