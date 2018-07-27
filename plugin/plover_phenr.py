@@ -15,8 +15,9 @@ KEYS = (
     '-f', '-n', '-t', '-d', '-S', '-g', '-l', '-s', '-i', '-r'
 )
 
-IMPLICIT_HYPHEN_KEYS = ('A-', 'a-', 'e-', '5-', '0-', '-I', '-U', '-i', '-r', '*')
+IMPLICIT_HYPHEN_KEYS = ('a-', 'e-', '5-', '0-', '-I', '-U', '*')
 
+PREFIX_KEYS = ('A-') # Seems like prefix keys are not implemented in Plover
 SUFFIX_KEYS = ('-f', '-n', '-d', '-S', '-g', '-l', '-s', '-i', '-r')
 
 NUMBER_KEY = '#'
