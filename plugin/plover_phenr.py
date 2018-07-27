@@ -1,6 +1,12 @@
+# phenrsteno
+
+# A p t w     f t S l i
+# s b d r  *  n d g s r
+#
+#      a e   I U
+
+
 KEYS = (
-    # Layout is #Aspbtdwrae*IUfntdSglsir where 'S' represents letter esh, and
-    # 'A' is under the left-pinky.
     '#',
     'A-', 's-', 'p-', 'b-', 't-', 'd-', 'w-', 'r-',
     'a-', 'e-',
@@ -80,6 +86,7 @@ ORTHOGRAPHY_WORDLIST = 'american_english_words.txt'
 
 KEYMAPS = {
     'Keyboard': {
+        # Number bar
         '#' : ['1', '2', '3', '4', '5', '6', '7', '8', '9', '0'],
 
         # Left-hand consonants      #  1  2  3  4
