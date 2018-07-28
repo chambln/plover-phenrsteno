@@ -57,6 +57,7 @@ To-do:
 - [ ] Include JSON dictionaries for
   - [ ] vocabulary
   - [ ] affixes
+  - [ ] punctuation
   - [ ] plover commands
 
 
