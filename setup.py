@@ -15,13 +15,13 @@ setuptools.setup(
     long_description_content_type = 'text/markdown',
     url = 'https://github.com/contrum/phenrsteno',
     packages = setuptools.find_packages(),
-    classifiers = (
+    classifiers = [
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: GNU General Public License v2 or later (GPLv2+)',
         'Operating System :: OS Independent',
         'Environment :: Plugins',
         'Intended Audience :: End Users/Desktop',
-    ),
+    ],
     install_requires =[
         'plover>=4.0.0.dev0',
     ],
