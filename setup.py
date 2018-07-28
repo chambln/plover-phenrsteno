@@ -5,7 +5,7 @@ with codecs.open('README.md', 'r', 'utf_8') as readme:
     long_description = readme.read()
 
 setuptools.setup(
-    name = 'phenrsteno',
+    name = 'plover-phenrsteno',
     version = '0.0.10',
     author = 'Gregory Chamberlain',
     author_email = '15685804+contrum@users.noreply.github.com',
