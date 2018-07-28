@@ -13,6 +13,7 @@ setuptools.setup(
     license = 'GNU General Public License v2 or later (GPLv2+)',
     long_description = long_description,
     long_description_content_type = 'text/markdown',
+    keywords = 'plover plover_plugin'
     url = 'https://github.com/contrum/phenrsteno',
     packages = setuptools.find_packages(),
     classifiers = [
