@@ -6,11 +6,11 @@ with codecs.open('README.md', 'r', 'utf_8') as readme:
 
 setuptools.setup(
     name = 'phenrsteno',
-    version = '0.0.1',
+    version = '0.0.10',
     author = 'Gregory Chamberlain',
     author_email = '15685804+contrum@users.noreply.github.com',
     description = 'Phonemic non-rhotic English stenotype system for Plover',
-    License = 'GNU General Public License v2 or later (GPLv2+)',
+    license = 'GNU General Public License v2 or later (GPLv2+)',
     long_description = long_description,
     long_description_content_type = 'text/markdown',
     url = 'https://github.com/contrum/phenrsteno',
