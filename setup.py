@@ -6,14 +6,14 @@ with codecs.open('README.md', 'r', 'utf_8') as readme:
 
 setuptools.setup(
     name = 'plover-phenrsteno',
-    version = '0.0.10',
+    version = '0.0.11',
     author = 'Gregory Chamberlain',
     author_email = '15685804+contrum@users.noreply.github.com',
     description = 'Phonemic non-rhotic English stenotype system for Plover',
     license = 'GNU General Public License v2 or later (GPLv2+)',
     long_description = long_description,
     long_description_content_type = 'text/markdown',
-    keywords = 'plover plover_plugin'
+    keywords = 'plover plover_plugin',
     url = 'https://github.com/contrum/phenrsteno',
     packages = setuptools.find_packages(),
     classifiers = [
