@@ -56,7 +56,7 @@ To-do:
 - [x] Integrate with [Plover's plugin manager][2]
 - [ ] Include JSON dictionaries for
   - [ ] vocabulary
-        - [ ] divide into `vocabulary.json` and `affixes.json`
+    - [ ] divide into `vocabulary.json` and `affixes.json`
   - [x] punctuation
   - [x] plover commands
 
