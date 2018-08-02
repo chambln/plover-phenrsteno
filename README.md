@@ -57,9 +57,9 @@ Phonemes under the right hand:
 To-do:
 
   - [x] Integrate with [Plover’s plugin manager](https://github.com/benoit-pierre/plover_plugins_manager "Plover Plugin Manager GitHub repository")
-  - [ ] Include JSON dictionaries for
-      - [ ] vocabulary
-          - [ ] divide into `vocabulary.json` and `affixes.json`
+  - [x] Include JSON dictionaries for
+      - [x] vocabulary
+          - [x] divide into `vocabulary.json` and `affixes.json`
       - [x] punctuation
       - [x] plover commands
   - [ ] Move explanations to the wiki
