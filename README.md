@@ -53,13 +53,12 @@ Phonemes under the right hand:
 # Development
 To-do:
 
-- [ ] Integrate with [Plover's plugin manager][2]
+- [x] Integrate with [Plover's plugin manager][2]
 - [ ] Include JSON dictionaries for
   - [ ] vocabulary
-  - [ ] affixes
-  - [ ] punctuation
-  - [ ] plover commands
-
+        - [ ] divide into `vocabulary.json` and `affixes.json`
+  - [x] punctuation
+  - [x] plover commands
 
 [1]: https://github.com/openstenoproject/plover "Plover GitHub repository"
 [2]: https://github.com/benoit-pierre/plover_plugins_manager "Plover Plugin Manager GitHub repository"
