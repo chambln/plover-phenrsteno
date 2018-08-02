@@ -2,7 +2,7 @@
 
 Phonemic and non-rhotic English stenotype system for [Plover](https://github.com/openstenoproject/plover "Plover GitHub repository"). The layout is optimised for RP and Midlands stenographers.
 
-![phenrsteno layout](./doc/layout.png)
+![phenrsteno layout](./wiki/layout.png)
 
 # Chorded phonemes
 
