@@ -1,6 +1,6 @@
 # phenrsteno
 
-Phonemic and non-rhotic English stenotype system for [Plover](https://github.com/openstenoproject/plover "Plover GitHub repository"). The layout is optimised for RP and Midlands stenographers.
+Phonemic and non-rhotic English stenotype system for [Plover](https://github.com/openstenoproject/plover "GitHub repository for Plover"). The layout is optimised for RP and Midlands stenographers.
 
 ![phenrsteno layout](./wiki/layout.png)
 
