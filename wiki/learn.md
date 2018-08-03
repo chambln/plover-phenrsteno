@@ -8,15 +8,13 @@ The Phenrsteno layout is built to transcribe phonemes, so printed on the keys ar
 
 ![phenrsteno layout](./png/layout-simple.png)
 
-<!-- Replace this diagram with a simplified one for learners -->
-
-Now you have to power to turn IPA transcriptions directly into words\! When transcribing a word, you’ll need to think about:
+Now you have the power to turn IPA transcriptions directly into words\! When transcribing a word, you’ll need to think about:
 
 1.  How the word is **pronounced**
 2.  The **phonemes** that make up that **pronunciation**
 3.  The strokes for its **phonemes**
 
-Step (1) you already know. Then there are some resources to help you with step (2) if you get stuck.
+Step (1) you already know. Then there are some resources to help you with step (2) if you get stuck:
 
   - Look it up in [this chart on Wikipedia](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet_chart#Vowels)
   - Look up your word on [Wiktionary](https://en.wiktionary.org/wiki/Wiktionary:Main_Page) and see if it has an IPA transcription
@@ -31,7 +29,7 @@ This sections describes how you can transcribe phonemes other than those printed
 
 ![phenrsteno layout](./png/layout-vowels.png)
 
-Some secondary vowel sounds are shown in the diagram above. Diphthongs like \[aɪ\] and \[eɪ\] arise naturally from the layout, whereas strokes for the other vowel sounds are in the table below.
+Some secondary vowel sounds are shown in the diagram above. Diphthongs like /aɪ/ and /eɪ/ arise naturally from the layout, whereas strokes for the other vowel sounds are in the table below.
 
 | Vowel | Stroke |
 | :---- | :----- |
