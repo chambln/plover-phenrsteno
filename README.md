@@ -1,66 +1,34 @@
 # phenrsteno
 
-Phonemic and non-rhotic English stenotype system for [Plover](https://github.com/openstenoproject/plover "GitHub repository for Plover"). The layout is optimised for RP and Midlands stenographers.
+Phonemic and non-rhotic English stenotype theory implemented as a system for [Plover](https://github.com/openstenoproject/plover "GitHub repository for Plover").
 
 ![phenrsteno layout](./wiki/layout.png)
 
-# Chorded phonemes
+Check out the [wiki](https://github.com/contrum/phenrsteno/wiki) to learn more.
 
-This sections describes how you can transcribe phonemes other than those printed on the keys.
+# Installation
 
-## Vowels
+1. Install [Plover version 4.x.x](https://github.com/openstenoproject/plover/releases)
+2. In the main Plover window, select `Plugins Manager` from the toolbar
+3. In the plugins list, find and select plover-phenrsteno and click `Install/Update`
+4. In the main Plover window, select `Configure`, go to the `System` tab, and select `Phenrsteno` from the dropdown box
+5. Click `OK`
+6. Quit (Ctrl-q) and re-open Plover
 
-Diphthongs like \[aɪ\] and \[eɪ\] arise naturally from the layout. Strokes for other vowel sounds are in the table below.
+# Usage
 
-| Vowel  | Stroke |
-| :----- | :----- |
-| \[ɒ\]  | `ae`   |
-| \[iː\] | `ɪʊ`   |
-| \[uː\] | `eʊ`   |
-| \[ɑː\] | `aɪʊ`  |
-| \[ɔː\] | `aeɪʊ` |
-| \[əʊ\] | `aeʊ`  |
+Once installed, you have two options:
 
-## Consonants
+- Use someone else's dictionaries
+- Create your own
 
-Phonemes under the left hand:
+You can download my dictionaries from this repository, in the `json` folder. `verbatim.json` is for fingerspelling individual letters. `vocabulary.json`, `prefixes.json`, and `suffixes.json` are for transcribing (British) English words.
 
-| Initial consonant | Left-hand stroke |
-| :---------------- | :--------------- |
-| \[f\]             | `sb`             |
-| \[v\]             | `sd`             |
-| \[k\]             | `pb`             |
-| \[l\]             | `td`             |
-| \[j\]             | `wr`             |
-| \[tʃ\]            | `twr`            |
-| \[dʒ\]            | `dwr`            |
-| \[ʃ\]             | `swr`            |
-| \[g\]             | `pt`             |
-| \[h\]             | `ptw`            |
-| \[n\]             | `bd`             |
-| \[m\]             | `bdr`            |
-| \[θ\]             | `bt`             |
-
-Phonemes under the right hand:
-
-| Final consonant | Right-hand stroke |
-| :-------------- | :---------------- |
-| \[p\]           | `ft`              |
-| \[b\]           | `ftʃ`             |
-| \[k\]           | `td`              |
-| \[θ\]           | `tdʃ`             |
-| \[ŋ\]           | `ng`              |
-| \[m\]           | `ftnd`            |
+In Plover, click the big green plus icon to add dictionaries.
 
 # Development
 
 To-do:
 
-  - [x] Integrate with [Plover’s plugin manager](https://github.com/benoit-pierre/plover_plugins_manager "Plover Plugin Manager GitHub repository")
-  - [x] Include JSON dictionaries for
-      - [x] vocabulary
-          - [x] divide into `vocabulary.json` and `affixes.json`
-      - [x] punctuation
-      - [x] plover commands
-  - [ ] Move explanations to the wiki
-  - [ ] Write installation instructions in README.md
+  - [x] Move explanations to the wiki
+  - [x] Write installation instructions in README.md
