@@ -2,11 +2,7 @@
 
 Phonemic and non-rhotic English stenotype theory implemented as a system for [Plover](https://github.com/openstenoproject/plover "GitHub repository for Plover").
 
-<<<<<<< HEAD
 ![phenrsteno layout](https://raw.githubusercontent.com/wiki/contrum/phenrsteno/png/layout.png)
-=======
-![phenrsteno layout](./wiki/png/layout.png)
->>>>>>> 46ba2d179d73ad73d64922e91b2e16c1df7e21b3
 
 Check out the [wiki](https://github.com/contrum/phenrsteno/wiki) to learn more.
 
