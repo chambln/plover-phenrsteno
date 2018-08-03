@@ -6,20 +6,20 @@ Linguists use the word **[phoneme](https://en.wikipedia.org/wiki/Phoneme)** to d
 
 The Phenrsteno layout is built to transcribe phonemes, so printed on the keys are the IPA symbols that represent those phonemes.
 
-![phenrsteno layout](./wiki/png/layout-simple.png)
+![phenrsteno layout](./png/layout-simple.png)
 
 <!-- Replace this diagram with a simplified one for learners -->
 
-Now you have to power to turn IPA transcriptions directly into words! When transcribing a word, you'll need to think about:
+Now you have to power to turn IPA transcriptions directly into words\! When transcribing a word, you’ll need to think about:
 
-1. How the word is **pronounced**
-2. The **phonemes** that make up that **pronunciation**
-3. The strokes for its **phonemes**
+1.  How the word is **pronounced**
+2.  The **phonemes** that make up that **pronunciation**
+3.  The strokes for its **phonemes**
 
 Step (1) you already know. Then there are some resources to help you with step (2) if you get stuck.
 
-- Look it up in [this chart on Wikipedia](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet_chart#Vowels)
-- Look up your word on [Wiktionary](https://en.wiktionary.org/wiki/Wiktionary:Main_Page) and see if it has an IPA transcription
+  - Look it up in [this chart on Wikipedia](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet_chart#Vowels)
+  - Look up your word on [Wiktionary](https://en.wiktionary.org/wiki/Wiktionary:Main_Page) and see if it has an IPA transcription
 
 For step (3) you should memorise the information in the diagrams and tables in this article.
 
@@ -29,43 +29,43 @@ This sections describes how you can transcribe phonemes other than those printed
 
 ## Vowels
 
-![phenrsteno layout](./wiki/png/layout-vowels.png)
+![phenrsteno layout](./png/layout-vowels.png)
 
 Some secondary vowel sounds are shown in the diagram above. Diphthongs like \[aɪ\] and \[eɪ\] arise naturally from the layout, whereas strokes for the other vowel sounds are in the table below.
 
-| Vowel  | Stroke |
-| :----- | :----- |
-| //ə//  | `-`    |
-| //ɒ//  | `ae`   |
-| //iː// | `ɪʊ`   |
-| //uː// | `eʊ`   |
-| //ɑː// | `aɪʊ`  |
-| //ɔː// | `aeɪʊ` |
-| //əʊ// | `aeʊ`  |
+| Vowel | Stroke |
+| :---- | :----- |
+| /ə/   | `-`    |
+| /ɒ/   | `ae`   |
+| /iː/  | `ɪʊ`   |
+| /uː/  | `eʊ`   |
+| /ɑː/  | `aɪʊ`  |
+| /ɔː/  | `aeɪʊ` |
+| /əʊ/  | `aeʊ`  |
 
-Note that for /ə/ you're not pressing any vowel keys at all.
+Note that for /ə/ you’re not pressing any vowel keys at all.
 
 ## Consonants
 
-![phenrsteno layout](./wiki/png/layout-consonants.png)
+![phenrsteno layout](./png/layout-consonants.png)
 
 Chorded phonemes under the left hand:
 
 | Initial consonant | Left-hand stroke |
 | :---------------- | :--------------- |
-| /f/             | `sb`             |
-| /v/             | `sd`             |
-| /k/             | `pb`             |
-| /l/             | `td`             |
-| /j/             | `wr`             |
-| /tʃ/, /tj/      | `twr`            |
-| /dʒ/, /dj/      | `dwr`            |
-| /ʃ/             | `swr`            |
-| /g/             | `pt`             |
-| /h/             | `ptw`            |
-| /n/             | `bd`             |
-| /m/             | `bdr`            |
-| /θ/             | `bt`             |
+| /f/               | `sb`             |
+| /v/               | `sd`             |
+| /k/               | `pb`             |
+| /l/               | `td`             |
+| /j/               | `wr`             |
+| /tʃ/, /tj/        | `twr`            |
+| /dʒ/, /dj/        | `dwr`            |
+| /ʃ/               | `swr`            |
+| /g/               | `pt`             |
+| /h/               | `ptw`            |
+| /n/               | `bd`             |
+| /m/               | `bdr`            |
+| /θ/               | `bt`             |
 
 Chorded phonemes under the right hand:
 
