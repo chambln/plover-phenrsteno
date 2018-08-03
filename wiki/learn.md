@@ -1,8 +1,10 @@
-# The layout
+# Phonemes
 
 Theories like StenEd and Phoenix are largely phonetic. Many words can be stroked phonetically to produce the written counterpart, and this is one technique that helps stenographers to surpass real-time speeds. Phenrsteno borrows from that, but implements it in a way that consistently agrees with proper phonetic theory.
 
 Linguists use the word **[phoneme](https://en.wikipedia.org/wiki/Phoneme)** to describe a language’s fundamental units of sound. For example, the words /sɪt/ (sit) and /bɪt/ (bit) each have three phonemes, but only two in common: /ɪ/ and /t/. They are distinguished strictly by their first phoneme. Other examples of English phonemes are /k/, /g/, /θ/, /ə/, /ɑː/, and /iː/. The symbols used to represent these phonemes are part of the [International Phonetic Alphabet (IPA)](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet).
+
+# The layout
 
 The Phenrsteno layout is built to transcribe phonemes, so printed on the keys are the IPA symbols that represent those phonemes. Below is a simplified diagram of the layout.
 
