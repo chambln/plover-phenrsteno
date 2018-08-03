@@ -4,9 +4,9 @@ Theories like StenEd and Phoenix are largely phonetic. Many words can be stroked
 
 Linguists use the word **[phoneme](https://en.wikipedia.org/wiki/Phoneme)** to describe a language’s fundamental units of sound. For example, the words /sɪt/ (sit) and /bɪt/ (bit) each have three phonemes, but only two in common: /ɪ/ and /t/. They are distinguished strictly by their first phoneme. Other examples of English phonemes are /k/, /g/, /θ/, /ə/, /ɑː/, and /iː/. The symbols used to represent these phonemes are part of the [International Phonetic Alphabet (IPA)](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet).
 
-The Phenrsteno layout is built to transcribe phonemes, so printed on the keys are the IPA symbols that represent those phonemes.
+The Phenrsteno layout is built to transcribe phonemes, so printed on the keys are the IPA symbols that represent those phonemes. Below is a simplified diagram of the layout.
 
-![phenrsteno layout](./png/layout-simple.png)
+![Phenrsteno layout with simple legends](./png/layout-simple.png)
 
 Now you have the power to turn IPA transcriptions directly into words\! When transcribing a word, you’ll need to think about:
 
@@ -27,7 +27,7 @@ This sections describes how you can transcribe phonemes other than those printed
 
 ## Vowels
 
-![phenrsteno layout](./png/layout-vowels.png)
+![Phenrsteno vowels](./png/layout-vowels.png)
 
 Some secondary vowel sounds are shown in the diagram above. Diphthongs like /aɪ/ and /eɪ/ arise naturally from the layout, whereas strokes for the other vowel sounds are in the table below.
 
@@ -45,7 +45,7 @@ Note that for /ə/ you’re not pressing any vowel keys at all.
 
 ## Consonants
 
-![phenrsteno layout](./png/layout-consonants.png)
+![Phenrsteno consonants](./png/layout-consonants.png)
 
 Chorded phonemes under the left hand:
 
@@ -75,3 +75,9 @@ Chorded phonemes under the right hand:
 | /θ/, /ð/        | `tdʃ`             |
 | /ŋ/             | `ng`              |
 | /m/             | `ftnd`            |
+
+# Put it all together
+
+Here is the full diagram for reference:
+
+![Full Phenrsteno layout](./png/layout.png)
