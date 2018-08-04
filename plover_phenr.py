@@ -1,29 +1,28 @@
 # phenrsteno
 
-# A p t w     f t S l i
-# s b d r  *  n d g s r
+# ə p t w     f t ʃ l i
+# s b d r  *  n d g s ə
 #
-#      a e   I U
-
+#      a e   ɪ ʊ
 
 KEYS = (
     '#',
-    'A-', 's-', 'p-', 'b-', 't-', 'd-', 'w-', 'r-',
+    'ə-', 's-', 'p-', 'b-', 't-', 'd-', 'w-', 'r-',
     'a-', 'e-',
     '*',
-    '-I', '-U',
-    '-f', '-n', '-t', '-d', '-S', '-g', '-l', '-s', '-i', '-r'
+    '-ɪ', '-ʊ',
+    '-f', '-n', '-t', '-d', '-ʃ', '-g', '-l', '-s', '-i', '-ə'
 )
 
-IMPLICIT_HYPHEN_KEYS = ('a-', 'e-', '5-', '0-', '-I', '-U', '*')
+IMPLICIT_HYPHEN_KEYS = ('a-', 'e-', '5-', '0-', '-ɪ', '-ʊ', '*')
 
-#PREFIX_KEYS = ('A-') # Seems like prefix keys are not implemented in Plover
+#PREFIX_KEYS = ('ə-') # Seems like prefix keys are not implemented in Plover
 SUFFIX_KEYS = ('-f', '-n', '-d', '-S', '-g', '-l', '-s', '-i', '-r')
 
 NUMBER_KEY = '#'
 
 NUMBERS = {
-    'A-': '1-',
+    'ə-': '1-',
     'p-': '2-',
     't-': '3-',
     'w-': '4-',
@@ -31,7 +30,7 @@ NUMBERS = {
     'e-': '0-',
     '-f': '-6',
     '-t': '-7',
-    '-S': '-8',
+    '-ʃ': '-8',
     '-l': '-9',
 }
 
@@ -91,7 +90,7 @@ KEYMAPS = {
         '#' : ['1', '2', '3', '4', '5', '6', '7', '8', '9', '0'],
 
         # Left-hand consonants      #  1  2  3  4
-        'A-': ['q'], 's-': ['a'],   #  A  p  t  w
+        'ə-': ['q'], 's-': ['a'],   #  ə  p  t  w
         'p-': ['w'], 'b-': ['s'],   #  s  b  d  r 
         't-': ['e'], 'd-': ['d'],
         'w-': ['r'], 'r-': ['f'],
@@ -102,15 +101,15 @@ KEYMAPS = {
         # Undo key                  #  *
         '*' : ['t', 'g', 'y', 'h'], 
 
-        # Right-hand vowels         #  I  U
-        '-I': ['n'], '-U': ['m'],
+        # Right-hand vowels         #  ɪ  ʊ
+        '-ɪ': ['n'], '-ʊ': ['m'],
 
         # Right-hand consonants     #  6  7  8  9
-        '-f': ['u'], '-n': ['j'],   #  f  t  S  l  i
-        '-t': ['i'], '-d': ['k'],   #  n  d  g  s  r
-        '-S': ['o'], '-g': ['l'],
+        '-f': ['u'], '-n': ['j'],   #  f  t  ʃ  l  i
+        '-t': ['i'], '-d': ['k'],   #  n  d  g  s  ə
+        '-ʃ': ['o'], '-g': ['l'],
         '-l': ['p'], '-s': [';'],
-        '-i': ['['], '-r': ['\''],
+        '-i': ['['], '-ə': ['\''],
 
         # Other
         'arpeggiate': ['space'],
