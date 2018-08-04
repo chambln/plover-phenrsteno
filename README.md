@@ -32,6 +32,7 @@ To-do:
 
   - [x] Move explanations to the wiki
   - [x] Write installation instructions in README.md
+  - [ ] Use unicode IPA symbols for stroke notation
   - [ ] Implement prefix keys
       - [ ] Integrate with [prefix support](https://github.com/openstenoproject/plover/issues/974)
       - [ ] Or use a Python dictionary as a workaround
