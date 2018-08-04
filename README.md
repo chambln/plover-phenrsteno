@@ -4,7 +4,7 @@ Phonemic and non-rhotic English stenotype theory implemented as a system for [Pl
 
 ![phenrsteno layout](https://raw.githubusercontent.com/wiki/contrum/phenrsteno/png/layout.png)
 
-Check out the [wiki](https://github.com/contrum/phenrsteno/wiki) to learn more.
+Check out the [wiki](https://github.com/contrum/phenrsteno/wiki/Introduction) to learn more.
 
 # Installation
 
