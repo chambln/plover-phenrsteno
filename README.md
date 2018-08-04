@@ -22,7 +22,7 @@ Once installed, you have two options:
   - Use someone else’s dictionaries
   - Create your own
 
-You can [download my dictionaries from this repository](https://github.com/contrum/phenrsteno/tree/master/json). `verbatim.json` is for fingerspelling individual letters. `vocabulary.json`, `prefixes.json`, and `suffixes.json` are for transcribing (British) English words.
+You can [download my dictionaries from this repository](./json). `verbatim.json` is for fingerspelling individual letters. `vocabulary.json`, `prefixes.json`, and `suffixes.json` are for transcribing (British) English words.
 
 In Plover, click the big green plus icon to add dictionaries.
 
