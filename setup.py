@@ -6,7 +6,7 @@ with codecs.open('README.md', 'r', 'utf_8') as readme:
 
 setuptools.setup(
     name = 'plover-phenrsteno',
-    version = '0.1.1',
+    version = '0.1.3',
     author = 'Gregory Chamberlain',
     author_email = '15685804+contrum@users.noreply.github.com',
     description = 'Phonemic non-rhotic English stenotype system for Plover',
