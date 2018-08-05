@@ -118,8 +118,4 @@ KEYMAPS = {
 }
 
 DICTIONARIES_ROOT = 'asset:plover:assets'
-DEFAULT_DICTIONARIES = (
-    "phenrsteno/verbatim.json",
-    "phenrsteno/vocabulary.json",
-    "phenrsteno/commands.json"
-)
+DEFAULT_DICTIONARIES = ()
