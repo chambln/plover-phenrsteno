@@ -30,10 +30,10 @@ In Plover, click the big green plus icon to add dictionaries.
 
 To-do:
 
-  - [x] Move explanations to the wiki
-  - [x] Write installation instructions in README.md
-  - [x] Use unicode IPA symbols for stroke notation
-      - [ ] If that works, convert my dictionaries to this new format
-  - [ ] Implement prefix keys
-      - [ ] Integrate with [prefix support](https://github.com/openstenoproject/plover/issues/974)
-      - [ ] Or use a Python dictionary as a workaround
+  - \[x\] Move explanations to the wiki
+  - \[x\] Write installation instructions in README.md
+  - \[x\] Use unicode IPA symbols for stroke notation
+      - \[ \] If that works, convert my dictionaries to this new format
+  - \[ \] Implement prefix keys
+      - \[ \] Integrate with [prefix support](https://github.com/openstenoproject/plover/issues/974)
+      - \[ \] Or use a Python dictionary as a workaround
