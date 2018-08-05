@@ -11,9 +11,11 @@ Check out the [wiki](https://github.com/contrum/phenrsteno/wiki/Introduction) to
 1.  Install [Plover version 4.x.x](https://github.com/openstenoproject/plover/releases)
 2.  In the main Plover window, select `Plugins Manager` from the toolbar
 3.  In the plugins list, find and select plover-phenrsteno and click `Install/Update`
-4.  In the main Plover window, select `Configure`, go to the `System` tab, and select `Phenrsteno` from the dropdown box
-5.  Click `OK`
-6.  Quit (Ctrl-q) and re-open Plover
+4.  Quit (Ctrl-q) and re-open Plover
+5.  In the main Plover window, select `Configure`
+      - Go to the `System` tab
+      - Select `Phenrsteno` from the dropdown box
+      - Click `OK`
 
 # Usage
 
@@ -30,10 +32,10 @@ In Plover, click the big green plus icon to add dictionaries.
 
 To-do:
 
-  - [x] Move explanations to the wiki
-  - [x] Write installation instructions in README.md
-  - [ ] Use unicode IPA symbols for stroke notation
-      - [ ] If that works, convert my dictionaries to this new format
-  - [ ] Implement prefix keys
-      - [ ] Integrate with [prefix support](https://github.com/openstenoproject/plover/issues/974)
-      - [ ] Or use a Python dictionary as a workaround
+  - \[x\] Move explanations to the wiki
+  - \[x\] Write installation instructions in README.md
+  - \[ \] Use unicode IPA symbols for stroke notation
+      - \[ \] If that works, convert my dictionaries to this new format
+  - \[ \] Implement prefix keys
+      - \[ \] Integrate with [prefix support](https://github.com/openstenoproject/plover/issues/974)
+      - \[ \] Or use a Python dictionary as a workaround
