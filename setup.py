@@ -3,7 +3,7 @@ import codecs
 
 setuptools.setup(
     name = 'plover-phenrsteno',
-    version = '0.1.4',
+    version = '0.1.6',
     author = 'Gregory Chamberlain',
     author_email = '15685804+contrum@users.noreply.github.com',
     description = 'Phonemic non-rhotic English stenotype system for Plover',
