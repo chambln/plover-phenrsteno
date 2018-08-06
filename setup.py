@@ -14,7 +14,7 @@ setup(
     author = 'Gregory Chamberlain',
     author_email = '15685804+contrum@users.noreply.github.com',
     description = 'Phonemic non-rhotic English stenotype system for Plover',
-    long_description = "foo",
+    long_description = "Phenrsteno\n==========\n\nPhonemic and non-rhotic English stenotype system for Plover",
     long_description_content_type = 'text/x-rst',
     license = 'GNU General Public License v2 or later (GPLv2+)',
     keywords = 'plover plover_plugin',
