@@ -2,7 +2,7 @@ phenrsteno
 ==========
 
 Phonemic and non-rhotic English stenotype theory implemented as a system
-for `Plover <https://github.com/openstenoproject/plover>`__.
+for `Plover <https://github.com/openstenoproject/plover>`.
 
 .. figure:: https://raw.githubusercontent.com/wiki/contrum/phenrsteno/png/layout.png
    :alt: phenrsteno layout
@@ -10,14 +10,14 @@ for `Plover <https://github.com/openstenoproject/plover>`__.
    phenrsteno layout
 
 Check out the
-`wiki <https://github.com/contrum/phenrsteno/wiki/Introduction>`__ to
+`wiki <https://github.com/contrum/phenrsteno/wiki/Introduction>` to
 learn more.
 
 Installation
 ============
 
 1. Install `Plover version
-   4.x.x <https://github.com/openstenoproject/plover/releases>`__
+   4.x.x <https://github.com/openstenoproject/plover/releases>`
 2. In the main Plover window, select ``Plugins Manager`` from the
    toolbar
 
@@ -40,7 +40,7 @@ Once installed, you have two options:
 -  Create your own
 
 You can `download my dictionaries from this
-repository <https://github.com/contrum/phenrsteno/tree/master/json>`__.
+repository <https://github.com/contrum/phenrsteno/tree/master/json>`.
 ``verbatim.json`` is for fingerspelling individual letters.
 ``vocabulary.json``, ``prefixes.json``, and ``suffixes.json`` are for
 transcribing (British) English words.
