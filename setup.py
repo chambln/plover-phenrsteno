@@ -16,7 +16,7 @@ setup(
     description = 'Phonemic non-rhotic English stenotype system for Plover',
     long_description = long_description,
     license = 'GNU General Public License v2 or later (GPLv2+)',
-    long_description_content_type = 'text/markdown',
+    long_description_content_type = 'text/x-rst',
     keywords = 'plover plover_plugin',
     url = 'https://github.com/contrum/phenrsteno',
     packages = find_packages(),
