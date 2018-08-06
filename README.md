@@ -32,10 +32,12 @@ In Plover, click the big green plus icon to add dictionaries.
 
 To-do:
 
-  - \[x\] Move explanations to the wiki
-  - \[x\] Write installation instructions in README.md
   - \[x\] Use unicode IPA symbols for stroke notation
       - \[x\] If that works, convert my dictionaries to this new format
   - \[ \] Implement prefix keys
       - \[ \] Integrate with [prefix support](https://github.com/openstenoproject/plover/issues/974)
       - \[ \] Or use a Python dictionary as a workaround
+
+Ideas:
+
+  - Use a corpus of word-to-IPA data to generate a fallback dictionary for perfectly phonetic translations
