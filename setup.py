@@ -1,16 +1,19 @@
 from os import path
 from codecs import open
 from setuptools import setup, find_packages
+from pypandoc import convert_text
 
 here = path.abspath(path.dirname(__file__))
 
-# Get the long description from README.rst
-with open(path.join(here, 'README.rst'), encoding='utf-8') as f:
-    readme_rst = f.read().replace('\r', '')  # Fixes iss1
+with open(path.join(here, 'README.md'), encoding='utf-8') as f:
+    # Get the long description from README.md
+    readme_md = f.read()
+    # Convert to reStructuredText using pypandoc
+    readme_rst = convert_text(readme_md, 'rst', format='markdown').replace('\r', '')
 
 setup(
     name = 'plover-phenrsteno',
-    version = '0.1.9',
+    version = '0.1.9.dev0',
     author = 'Gregory Chamberlain',
     author_email = '15685804+contrum@users.noreply.github.com',
     description = 'Phonemic non-rhotic English stenotype system for Plover',
