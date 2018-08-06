@@ -1,4 +1,4 @@
-from setuptools import setup
+from setuptools import setup, find_packages
 from codecs import open
 from os import path
 
@@ -19,7 +19,7 @@ setup(
     long_description_content_type = 'text/markdown',
     keywords = 'plover plover_plugin',
     url = 'https://github.com/contrum/phenrsteno',
-    packages = setuptools.find_packages(),
+    packages = find_packages(),
     classifiers = [
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: GNU General Public License v2 or later (GPLv2+)',
