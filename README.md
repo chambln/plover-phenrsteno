@@ -27,17 +27,3 @@ Once installed, you have two options:
 You can [download my dictionaries from this repository](https://github.com/contrum/phenrsteno/tree/master/json). `verbatim.json` is for fingerspelling individual letters. `vocabulary.json`, `prefixes.json`, and `suffixes.json` are for transcribing (British) English words.
 
 In Plover, click the big green plus icon to add dictionaries.
-
-# Development
-
-To-do:
-
-  - \[x\] Use unicode IPA symbols for stroke notation
-      - \[x\] If that works, convert my dictionaries to this new format
-  - \[ \] Implement prefix keys
-      - \[ \] Integrate with [prefix support](https://github.com/openstenoproject/plover/issues/974)
-      - \[ \] Or use a Python dictionary as a workaround
-
-Ideas:
-
-  - Use a corpus of word-to-IPA data to generate a fallback dictionary for perfectly phonetic translations
