@@ -4,14 +4,13 @@ from setuptools import setup, find_packages
 
 here = path.abspath(path.dirname(__file__))
 
-# Get the long description from README.md --> rst
+# Get the long description from README.rst
 with open(path.join(here, 'README.rst'), encoding='utf-8') as f:
-    readme_rst = f.read()
-    readme_rst = readme_rst.replace('\r', '')  # iss1
+    readme_rst = f.read().replace('\r', '')  # Fixes iss1
 
 setup(
     name = 'plover-phenrsteno',
-    version = '0.1.7.dev8',
+    version = '0.1.8',
     author = 'Gregory Chamberlain',
     author_email = '15685804+contrum@users.noreply.github.com',
     description = 'Phonemic non-rhotic English stenotype system for Plover',
