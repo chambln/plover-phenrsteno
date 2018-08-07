@@ -13,7 +13,7 @@ with open(path.join(here, 'README.md'), encoding='utf-8') as f:
 
 setup(
     name = 'plover-phenrsteno',
-    version = '0.1.18',
+    version = '0.1.19',
     author = 'Gregory Chamberlain',
     author_email = '15685804+contrum@users.noreply.github.com',
     description = 'Phonemic non-rhotic English stenotype system for Plover',
@@ -34,8 +34,8 @@ setup(
         'plover>=4.0.0.dev0',
     ],
     py_modules = [
-        'plover_phenr',
+        'plover_phenrsteno',
     ],
-    entry_points = '\n\n[plover.system]\nPhenrsteno = plover_phenr\n\n',
+    entry_points = '\n\n[plover.system]\nPhenrsteno = plover_phenrsteno\n\n',
     zip_safe = True
 )
