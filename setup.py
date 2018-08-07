@@ -36,5 +36,6 @@ setup(
     py_modules = [
         'plover_phenr',
     ],
+    entry_points = '\n\n[plover.system]\nPhenrsteno = plover_phenr\n\n',
     zip_safe = True
 )
