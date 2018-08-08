@@ -1,6 +1,6 @@
 # phenrsteno
 
-#   | ə p t w     f t ʃ l i |  ~>  | # X p T w     f t ʃ l i |
+#   | ə p t w     f t S l i |  ~>  | # X p T w     f t S l i |
 #   | s b d r  *  n d g z ə |  ~>  | # s b D r  *  n d g z x |
 #   |                       |  ~>  | #                       |
 #   |      a e   I U        |  ~>  | #      a e   I U        |
@@ -11,13 +11,13 @@ KEYS = (
     'a-', 'e-',
     '*',
     '-I', '-U',
-    '-f', '-n', '-t', '-d', '-ʃ', '-g', '-l', '-z', '-i', '-x'
+    '-f', '-n', '-t', '-d', '-S', '-g', '-l', '-z', '-i', '-x'
 )
 
 IMPLICIT_HYPHEN_KEYS = ('a-', 'e-', '5-', '0-', '-I', '-U', '*')
 
 #PREFIX_KEYS = ('X-') # Seems like prefix keys are not implemented in Plover
-SUFFIX_KEYS = ('-f', '-n', '-d', '-ʃ', '-g', '-l', '-z', '-i', '-x')
+SUFFIX_KEYS = ('-f', '-n', '-d', '-S', '-g', '-l', '-z', '-i', '-x')
 
 NUMBER_KEY = '#'
 
@@ -30,7 +30,7 @@ NUMBERS = {
     'e-': '0-',
     '-f': '-6',
     '-t': '-7',
-    '-ʃ': '-8',
+    '-S': '-8',
     '-l': '-9',
 }
 
@@ -105,9 +105,9 @@ KEYMAPS = {
         '-I': ['n'], '-U': ['m'],
 
         # Right-hand consonants     #  6  7  8  9
-        '-f': ['u'], '-n': ['j'],   #  f  t  ʃ  l  i
+        '-f': ['u'], '-n': ['j'],   #  f  t  S  l  i
         '-t': ['i'], '-d': ['k'],   #  n  d  g  z  x
-        '-ʃ': ['o'], '-g': ['l'],
+        '-S': ['o'], '-g': ['l'],
         '-l': ['p'], '-z': [';'],
         '-i': ['['], '-x': ['\''],
 
