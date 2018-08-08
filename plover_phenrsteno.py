@@ -1,13 +1,13 @@
 # phenrsteno
 
-#   | ə p t w     f t S l i |  ~>  | # X p T w     f t S l i |
-#   | s b d r  *  n d g z ə |  ~>  | # s b D r  *  n d g z x |
+#   | ə p t w     f t S l i |  ~>  | # X p t w     f t S l i |
+#   | s b d r  *  n d g z ə |  ~>  | # s b d r  *  n d g z x |
 #   |                       |  ~>  | #                       |
 #   |      a e   I U        |  ~>  | #      a e   I U        |
 
 KEYS = (
     '#',
-    'X-', 's-', 'p-', 'b-', 'T-', 'D-', 'w-', 'r-',
+    'X-', 's-', 'p-', 'b-', 't-', 'd-', 'w-', 'r-',
     'a-', 'e-',
     '*',
     '-I', '-U',
@@ -24,7 +24,7 @@ NUMBER_KEY = '#'
 NUMBERS = {
     'X-': '1-',
     'p-': '2-',
-    'T-': '3-',
+    't-': '3-',
     'w-': '4-',
     'a-': '5-',
     'e-': '0-',
@@ -90,9 +90,9 @@ KEYMAPS = {
         '#' : ['1', '2', '3', '4', '5', '6', '7', '8', '9', '0'],
 
         # Left-hand consonants      #  1  2  3  4
-        'X-': ['q'], 's-': ['a'],   #  X  p  T  w
-        'p-': ['w'], 'b-': ['s'],   #  s  b  D  r 
-        'T-': ['e'], 'D-': ['d'],
+        'X-': ['q'], 's-': ['a'],   #  X  p  t  w
+        'p-': ['w'], 'b-': ['s'],   #  s  b  d  r 
+        't-': ['e'], 'd-': ['d'],
         'w-': ['r'], 'r-': ['f'],
 
         # Left-hand vowels          #  5  0
