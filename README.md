@@ -7,7 +7,12 @@ s b d r  *  n d g z ə
      a e   ɪ ʊ       
 </pre>
 
-Phonemic and non-rhotic English stenotype theory implemented as a system for [Plover](https://github.com/openstenoproject/plover "GitHub repository for Plover"). Check out the [wiki](https://github.com/contrum/plover-phenrsteno/wiki) to learn more.
+<p align=center>
+    **Phonemic non-rhotic English stenotype** system for <a href="https://github.com/openstenoproject/plover" title="GitHub repository for Plover">Plover</a>
+</p>
+<p align=center>
+    **<a href="https://github.com/contrum/plover-phenrsteno/wiki">See the wiki to learn more »</a>**
+</p>
 
 # Installation
 
