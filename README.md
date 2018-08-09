@@ -8,11 +8,11 @@ s b d r  *  n d g z ə
 </pre>
 
 <strong>
-     <h3 align=center>
+     <p align=center>
          Non-rhotic phonemic system for <a href="https://github.com/openstenoproject/plover" title="GitHub repository for Plover">Plover</a>
      <br/>
          See the <a href="https://github.com/contrum/plover-phenrsteno/wiki">wiki</a> to learn more
-     </h3>
+     </p>
 </strong>
 
 # Installation
