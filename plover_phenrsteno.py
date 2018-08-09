@@ -3,7 +3,7 @@
 #   | ə p t w     f t S l i |  ~>  | # X p t w     f t S l i |
 #   | s b d r  *  n d g z ə |  ~>  | # s b d r  *  n d g z x |
 #   |                       |  ~>  | #                       |
-#   |      a e   I U        |  ~>  | #      a e   I U        |
+#   |      a e   ɪ ʊ        |  ~>  | #      a e   I U        |
 
 KEYS = (
     '#',
