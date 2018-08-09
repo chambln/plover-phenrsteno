@@ -1,4 +1,4 @@
-# Phenrsteno
+<h1 align=center>Phenrsteno</h1>
 
 <pre align=center>
 ə p t w     f t ʃ l i
@@ -8,11 +8,11 @@ s b d r  *  n d g z ə
 </pre>
 
 <strong>
-     <p align=center>
-         Phonemic non-rhotic English stenotype system for <a href="https://github.com/openstenoproject/plover" title="GitHub repository for Plover">Plover</a>
+     <h3 align=center>
+         Non-rhotic phonemic system for <a href="https://github.com/openstenoproject/plover" title="GitHub repository for Plover">Plover</a>
      <br/>
-         <a href="https://github.com/contrum/plover-phenrsteno/wiki">See the wiki to learn more »</a>
-     </p>
+         See the <a href="https://github.com/contrum/plover-phenrsteno/wiki">wiki</a> to learn more
+     </h3>
 </strong>
 
 # Installation
