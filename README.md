@@ -15,7 +15,7 @@ s b d r  *  n d g z ə
      </p>
 </strong>
 
-# Installation
+## Installation
 
 1.  Install [Plover version 4.x.x](https://github.com/openstenoproject/plover/releases)
 2.  In the main Plover window, select `Plugins Manager` from the toolbar
@@ -26,7 +26,7 @@ s b d r  *  n d g z ə
       - Select `Phenrsteno` from the dropdown box
       - Click `OK`
 
-# Usage
+## Usage
 
 Once installed, you have two options:
 
