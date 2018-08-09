@@ -1,6 +1,11 @@
 # Phenrsteno
 
-![Phenrsteno layout](https://raw.githubusercontent.com/wiki/contrum/plover-phenrsteno/png/layout.png)
+<pre align=center>
+ə p t w     f t ʃ l i
+s b d r  *  n d g z ə
+
+     a e   ɪ ʊ       
+</pre>
 
 Phonemic and non-rhotic English stenotype theory implemented as a system for [Plover](https://github.com/openstenoproject/plover "GitHub repository for Plover"). Check out the [wiki](https://github.com/contrum/plover-phenrsteno/wiki) to learn more.
 
