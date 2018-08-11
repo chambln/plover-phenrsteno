@@ -1,4 +1,5 @@
 {
 "ptd-d": "{PLOVER:ADD_TRANSLATION}",
+"ptd-l": "{PLOVER:LOOKUP}{PLOVER:SUSPEND}",
 "ptd-t": "{PLOVER:TOGGLE}"
 }
