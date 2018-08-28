@@ -1,10 +1,21 @@
-# Phenrsteno
+<h1 align=center>Phenrsteno</h1>
 
-![Phenrsteno layout](https://raw.githubusercontent.com/wiki/contrum/plover-phenrsteno/png/layout.png)
+<pre align=center>
+ə p t w     f t ʃ l i
+s b d r  *  n d g z ə
 
-Phonemic and non-rhotic English stenotype theory implemented as a system for [Plover](https://github.com/openstenoproject/plover "GitHub repository for Plover"). Check out the [wiki](https://github.com/contrum/plover-phenrsteno/wiki) to learn more.
+     a e   ɪ ʊ       
+</pre>
 
-# Installation
+<strong>
+     <p align=center>
+         Non-rhotic phonemic system for <a href="https://github.com/openstenoproject/plover" title="GitHub repository for Plover">Plover</a>
+     <br/>
+         See the <a href="https://github.com/contrum/plover-phenrsteno/wiki">wiki</a> to learn more
+     </p>
+</strong>
+
+## Installation
 
 1.  Install [Plover version 4.x.x](https://github.com/openstenoproject/plover/releases)
 2.  In the main Plover window, select `Plugins Manager` from the toolbar
@@ -15,7 +26,7 @@ Phonemic and non-rhotic English stenotype theory implemented as a system for [Pl
       - Select `Phenrsteno` from the dropdown box
       - Click `OK`
 
-# Usage
+## Usage
 
 Once installed, you have two options:
 
