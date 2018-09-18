@@ -1,7 +1,0 @@
-{
-"ptd*l": "{PLOVER:LOOKUP}{PLOVER:SUSPEND}",
-"ptd-d": "{PLOVER:ADD_TRANSLATION}",
-"ptd-l": "{PLOVER:LOOKUP}",
-"ptd-t": "{PLOVER:TOGGLE}",
-"ptd-tl": "{PLOVER:LOOKUP}{PLOVER:TOGGLE}{PLOVER:LOOKUP}"
-}

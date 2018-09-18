@@ -1,0 +1,22 @@
+{
+  "{PLOVER:ADD_TRANSLATION}":
+  [
+    ptd-d
+  ]
+  "{PLOVER:LOOKUP}":
+  [
+    ptd-l
+  ]
+  "{PLOVER:LOOKUP}{PLOVER:SUSPEND}":
+  [
+    ptd*l
+  ]
+  "{PLOVER:LOOKUP}{PLOVER:TOGGLE}{PLOVER:LOOKUP}":
+  [
+    ptd-tl
+  ]
+  "{PLOVER:TOGGLE}":
+  [
+    ptd-t
+  ]
+}
