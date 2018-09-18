@@ -1,4 +1,4 @@
-# Phenrsteno
+# [Phenrsteno](https://github.com/contrum/plover-phenrsteno/wiki)
 
 ![Stenotype layout for Phenrsteno](https://raw.githubusercontent.com/wiki/contrum/plover-phenrsteno/png/layout.png)
 
@@ -25,4 +25,3 @@ Once installed, you have two options:
 You can [download my dictionaries from this repository](https://github.com/contrum/plover-phenrsteno/tree/master/json). `verbatim.json` is for fingerspelling individual letters. `vocabulary.json`, `prefixes.json`, and `suffixes.json` are for transcribing (British) English words.
 
 In Plover, click the big green plus icon to add dictionaries.
-
