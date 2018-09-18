@@ -1,28 +1,28 @@
 # phenrsteno
 
-# ə p t w     f t ʃ l i
-# s b d r  *  n d g z ə
-#
-#      a e   ɪ ʊ
+#   | ə p t w     f t S l i |  ~>  | # X p t w     f t S l i |
+#   | s b d r  *  n d g z ə |  ~>  | # s b d r  *  n d g z x |
+#   |                       |  ~>  | #                       |
+#   |      a e   ɪ ʊ        |  ~>  | #      a e   I U        |
 
 KEYS = (
     '#',
-    'ə-', 's-', 'p-', 'b-', 't-', 'd-', 'w-', 'r-',
+    'X-', 's-', 'p-', 'b-', 't-', 'd-', 'w-', 'r-',
     'a-', 'e-',
     '*',
-    '-ɪ', '-ʊ',
-    '-f', '-n', '-t', '-d', '-ʃ', '-g', '-l', '-z', '-i', '-ə'
+    '-I', '-U',
+    '-f', '-n', '-t', '-d', '-S', '-g', '-l', '-z', '-i', '-x'
 )
 
-IMPLICIT_HYPHEN_KEYS = ('a-', 'e-', '5-', '0-', '-ɪ', '-ʊ', '*')
+IMPLICIT_HYPHEN_KEYS = ('a-', 'e-', '5-', '0-', '-I', '-U', '*')
 
-#PREFIX_KEYS = ('ə-') # Seems like prefix keys are not implemented in Plover
-SUFFIX_KEYS = ('-f', '-n', '-d', '-ʃ', '-g', '-l', '-z', '-i', '-ə')
+#PREFIX_KEYS = ('X-') # Seems like prefix keys are not implemented in Plover
+SUFFIX_KEYS = ('-f', '-n', '-d', '-S', '-g', '-l', '-z', '-i', '-x')
 
 NUMBER_KEY = '#'
 
 NUMBERS = {
-    'ə-': '1-',
+    'X-': '1-',
     'p-': '2-',
     't-': '3-',
     'w-': '4-',
@@ -30,7 +30,7 @@ NUMBERS = {
     'e-': '0-',
     '-f': '-6',
     '-t': '-7',
-    '-ʃ': '-8',
+    '-S': '-8',
     '-l': '-9',
 }
 
@@ -90,7 +90,7 @@ KEYMAPS = {
         '#' : ['1', '2', '3', '4', '5', '6', '7', '8', '9', '0'],
 
         # Left-hand consonants      #  1  2  3  4
-        'ə-': ['q'], 's-': ['a'],   #  ə  p  t  w
+        'X-': ['q'], 's-': ['a'],   #  X  p  t  w
         'p-': ['w'], 'b-': ['s'],   #  s  b  d  r 
         't-': ['e'], 'd-': ['d'],
         'w-': ['r'], 'r-': ['f'],
@@ -101,15 +101,15 @@ KEYMAPS = {
         # Undo key                  #  *
         '*' : ['t', 'g', 'y', 'h'], 
 
-        # Right-hand vowels         #  ɪ  ʊ
-        '-ɪ': ['n'], '-ʊ': ['m'],
+        # Right-hand vowels         #  I  U
+        '-I': ['n'], '-U': ['m'],
 
         # Right-hand consonants     #  6  7  8  9
-        '-f': ['u'], '-n': ['j'],   #  f  t  ʃ  l  i
-        '-t': ['i'], '-d': ['k'],   #  n  d  g  z  ə
-        '-ʃ': ['o'], '-g': ['l'],
+        '-f': ['u'], '-n': ['j'],   #  f  t  S  l  i
+        '-t': ['i'], '-d': ['k'],   #  n  d  g  z  x
+        '-S': ['o'], '-g': ['l'],
         '-l': ['p'], '-z': [';'],
-        '-i': ['['], '-ə': ['\''],
+        '-i': ['['], '-x': ['\''],
 
         # Other
         'arpeggiate': ['space'],
