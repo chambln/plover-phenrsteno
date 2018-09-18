@@ -1,19 +1,8 @@
-<h1 align=center>Phenrsteno</h1>
+# Phenrsteno
 
-<pre align=center>
-ə p t w     f t ʃ l i
-s b d r  *  n d g z ə
+![Stenotype layout for Phenrsteno](https://raw.githubusercontent.com/wiki/contrum/plover-phenrsteno/png/layout.png)
 
-     a e   ɪ ʊ       
-</pre>
-
-<strong>
-     <p align=center>
-         Non-rhotic phonemic system for <a href="https://github.com/openstenoproject/plover" title="GitHub repository for Plover">Plover</a>
-     <br/>
-         See the <a href="https://github.com/contrum/plover-phenrsteno/wiki">wiki</a> to learn more
-     </p>
-</strong>
+Non-rhotic phonemic system for [Plover](https://github.com/openstenoproject/plover "GitHub repository for Plover"). See the [wiki](https://github.com/contrum/plover-phenrsteno/wiki "Phenrsteno wiki") to learn more.
 
 ## Installation
 
@@ -36,3 +25,4 @@ Once installed, you have two options:
 You can [download my dictionaries from this repository](https://github.com/contrum/plover-phenrsteno/tree/master/json). `verbatim.json` is for fingerspelling individual letters. `vocabulary.json`, `prefixes.json`, and `suffixes.json` are for transcribing (British) English words.
 
 In Plover, click the big green plus icon to add dictionaries.
+
