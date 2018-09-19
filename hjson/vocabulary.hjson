@@ -29,6 +29,10 @@
     3d-6n7d9
     3d-9
   ]
+  AI:
+  [
+    eI/aI
+  ]
   AWOL:
   [
     Xw-l
@@ -86,6 +90,10 @@
     pbrIfntdz
     pbrIft/bdr-z
     pbrIftz
+  ]
+  DIY:
+  [
+    dwraI/waI
   ]
   Darwin:
   [
@@ -1755,6 +1763,10 @@
     atd/s-l
     atdz/-l
     atdz/s-l
+  ]
+  ay:
+  [
+    eI
   ]
   aye:
   [
@@ -4241,6 +4253,10 @@
   [
     d*Itd
   ]
+  diction:
+  [
+    dItdS
+  ]
   dictionary:
   [
     dIUtd/swr-ni
@@ -4248,6 +4264,7 @@
     dItd/swr-n/ei
     dItd/swr-n/rIU
     dItd/swr-ni
+    dItdS/bdei
     dItdSl/ei
     dItdSl/rIU
     dItdSli
@@ -4796,6 +4813,10 @@
   [
     edS
   ]
+  editing:
+  [
+    ed/tIng
+  ]
   educate:
   [
     edS/pbeIt
@@ -4904,6 +4925,17 @@
   [
     bdranz/peIt
   ]
+  emoji:
+  [
+    XbdraeUdSi
+    bdraeUdS
+    bdraeUdSi
+  ]
+  emojis:
+  [
+    XbdraeUdSz
+    bdraeUdSz
+  ]
   emote:
   [
     I/bdraeUt
@@ -4986,6 +5018,14 @@
   entrepreneuring:
   [
     aent/pr-nx
+  ]
+  entries:
+  [
+    en/trIUz
+  ]
+  entry:
+  [
+    en/trIU
   ]
   environment:
   [
@@ -5194,6 +5234,8 @@
   exit:
   [
     Itdz/It
+    pb*It
+    s*It
   ]
   expect:
   [
@@ -8307,6 +8349,7 @@
   ]
   magnetic:
   [
+    bdrag/bdet/Itd
     bdrag/bdetd
   ]
   maid:
@@ -8493,6 +8536,10 @@
   meat:
   [
     bdr*IUt
+  ]
+  mech:
+  [
+    bdretd
   ]
   med:
   [
@@ -9567,6 +9614,10 @@
   [
     waef
   ]
+  "one of these":
+  [
+    w-n/btIUz
+  ]
   ones:
   [
     waenz
@@ -10161,6 +10212,11 @@
   [
     pa*I
   ]
+  piano:
+  [
+    pwran
+    pwranx
+  ]
   pick:
   [
     pItd
@@ -10314,6 +10370,10 @@
   plex:
   [
     ptdetdz
+  ]
+  plover:
+  [
+    pb/ptdUf
   ]
   plugin:
   [
@@ -10698,6 +10758,11 @@
   pup:
   [
     pUft
+  ]
+  pure:
+  [
+    pwraeIU
+    pwreIU
   ]
   purpose:
   [
@@ -14862,6 +14927,10 @@
   [
     wIUft
   ]
+  weeze:
+  [
+    wIUz
+  ]
   weigh:
   [
     we*I
@@ -15121,6 +15190,7 @@
   ]
   wing:
   [
+    w-g
     wIng
   ]
   wins:
@@ -15780,10 +15850,6 @@
     -ng
     Ing
   ]
-  "{^ision}":
-  [
-    *IS
-  ]
   "{^ision}{^al}":
   [
     *ISl
@@ -15803,10 +15869,6 @@
   "{^ital}":
   [
     *Itl
-  ]
-  "{^ition}":
-  [
-    IS
   ]
   "{^ition}{^al}":
   [
@@ -15915,6 +15977,10 @@
   [
     -tdSg
   ]
+  "{^–^}":
+  [
+    dr*nd
+  ]
   "{^…^}":
   [
     pbtd*tdSg
@@ -15967,6 +16033,7 @@
   "{ex^}":
   [
     Itdz
+    etd
     etdz
   ]
   "{giga^}":
