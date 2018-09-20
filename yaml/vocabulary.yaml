@@ -325,6 +325,9 @@ Sylvan:
 - sIl/sdan
 TA:
 - twreI
+Tetris:
+- te/trIf
+- trIf
 Thursday:
 - bteIUfd
 - bteIUfdx
@@ -6280,6 +6283,8 @@ pike:
 pikey:
 - paI/pbIU
 - paItdi
+pile:
+- paIl
 pilot:
 - pa*Int
 - paItl
@@ -8636,6 +8641,11 @@ trip:
 - trIft
 tripped:
 - trIftd
+trivial:
+- trIf/wr-l
+- trIfl
+trivially:
+- trIfli
 trot:
 - traet
 trouble:
@@ -9459,6 +9469,9 @@ zero-zero:
 - sraeU/sraeU
 zero-zero-zero:
 - sraeU/sraeU/sraeU
+zeroes:
+- sI/raeUz
+- srI/raeUz
 zoom:
 - seUfntd
 '{#Backspace}':
