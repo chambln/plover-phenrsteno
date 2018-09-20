@@ -1,0 +1,240 @@
+{
+    "name": "Phenrsteno",
+    "margin": 5.0,
+    "key_width": 30.0,
+    "key_height": 35.0,
+    "keys": [
+        {
+            "name": "#",
+            "label": "",
+            "x": 0.0,
+            "y": 0.0,
+            "width": 10.0,
+            "height": 0.5,
+            "color_pressed": "#70C1B3"
+        },
+
+        {
+            "name": "X-",
+            "label": "ə",
+            "x": 0.0,
+            "y": 0.5,
+            "width": 1.0,
+            "height": 1.0,
+            "color_pressed": "#70C1B3"
+        },
+        {
+            "name": "p-",
+            "label": "p",
+            "x": 1.0,
+            "y": 0.5,
+            "width": 1.0,
+            "height": 1.0,
+            "color_pressed": "#70C1B3"
+        },
+        {
+            "name": "t-",
+            "label": "t",
+            "x": 2.0,
+            "y": 0.5,
+            "width": 1.0,
+            "height": 1.0,
+            "color_pressed": "#70C1B3"
+        },
+        {
+            "name": "w-",
+            "label": "w",
+            "x": 3.0,
+            "y": 0.5,
+            "width": 1.0,
+            "height": 1.0,
+            "color_pressed": "#70C1B3"
+        },
+        {
+            "name": "*",
+            "label": "",
+            "x": 4.0,
+            "y": 0.5,
+            "width": 1.0,
+            "height": 2.0,
+            "is_round_bottom": true,
+            "color_pressed": "#70C1B3"
+        },
+        {
+            "name": "-f",
+            "label": "f",
+            "x": 5.0,
+            "y": 0.5,
+            "width": 1.0,
+            "height": 1.0,
+            "color_pressed": "#70C1B3"
+        },
+        {
+            "name": "-t",
+            "label": "t",
+            "x": 6.0,
+            "y": 0.5,
+            "width": 1.0,
+            "height": 1.0,
+            "color_pressed": "#70C1B3"
+        },
+        {
+            "name": "-S",
+            "label": "ʃ",
+            "x": 7.0,
+            "y": 0.5,
+            "width": 1.0,
+            "height": 1.0,
+            "color_pressed": "#70C1B3"
+        },
+        {
+            "name": "-l",
+            "label": "l",
+            "x": 8.0,
+            "y": 0.5,
+            "width": 1.0,
+            "height": 1.0,
+            "color_pressed": "#70C1B3"
+        },
+        {
+            "name": "-i",
+            "label": "iː",
+            "x": 9.0,
+            "y": 0.5,
+            "width": 1.0,
+            "height": 1.0,
+            "color_pressed": "#70C1B3"
+        },
+        {
+            "name": "s-",
+            "label": "s",
+            "x": 0.0,
+            "y": 1.5,
+            "width": 1.0,
+            "height": 1.0,
+            "is_round_bottom": true,
+            "color_pressed": "#70C1B3"
+        },
+        {
+            "name": "b-",
+            "label": "b",
+            "x": 1.0,
+            "y": 1.5,
+            "width": 1.0,
+            "height": 1.0,
+            "is_round_bottom": true,
+            "color_pressed": "#70C1B3"
+        },
+        {
+            "name": "d-",
+            "label": "d",
+            "x": 2.0,
+            "y": 1.5,
+            "width": 1.0,
+            "height": 1.0,
+            "is_round_bottom": true,
+            "color_pressed": "#70C1B3"
+        },
+        {
+            "name": "r-",
+            "label": "r",
+            "x": 3.0,
+            "y": 1.5,
+            "width": 1.0,
+            "height": 1.0,
+            "is_round_bottom": true,
+            "color_pressed": "#70C1B3"
+        },
+        {
+            "name": "-n",
+            "label": "n",
+            "x": 5.0,
+            "y": 1.5,
+            "width": 1.0,
+            "height": 1.0,
+            "is_round_bottom": true,
+            "color_pressed": "#70C1B3"
+        },
+        {
+            "name": "-d",
+            "label": "d",
+            "x": 6.0,
+            "y": 1.5,
+            "width": 1.0,
+            "height": 1.0,
+            "is_round_bottom": true,
+            "color_pressed": "#70C1B3"
+        },
+        {
+            "name": "-g",
+            "label": "g",
+            "x": 7.0,
+            "y": 1.5,
+            "width": 1.0,
+            "height": 1.0,
+            "is_round_bottom": true,
+            "color_pressed": "#70C1B3"
+        },
+        {
+            "name": "-z",
+            "label": "z",
+            "x": 8.0,
+            "y": 1.5,
+            "width": 1.0,
+            "height": 1.0,
+            "is_round_bottom": true,
+            "color_pressed": "#70C1B3"
+        },
+        {
+            "name": "-x",
+            "label": "ə",
+            "x": 9.0,
+            "y": 1.5,
+            "width": 1.0,
+            "height": 1.0,
+            "is_round_bottom": true,
+            "color_pressed": "#70C1B3"
+        },
+
+        {
+            "name": "a-",
+            "label": "a",
+            "x": 2.2,
+            "y": 2.6,
+            "width": 1.0,
+            "height": 1.0,
+            "is_round_bottom": true,
+            "color_pressed": "#70C1B3"
+        },
+        {
+            "name": "e-",
+            "label": "e",
+            "x": 3.2,
+            "y": 2.6,
+            "width": 1.0,
+            "height": 1.0,
+            "is_round_bottom": true,
+            "color_pressed": "#70C1B3"
+        },
+        {
+            "name": "-I",
+            "label": "ɪ",
+            "x": 4.8,
+            "y": 2.6,
+            "width": 1.0,
+            "height": 1.0,
+            "is_round_bottom": true,
+            "color_pressed": "#70C1B3"
+        },
+        {
+            "name": "-U",
+            "label": "ʊ",
+            "x": 5.8,
+            "y": 2.6,
+            "width": 1.0,
+            "height": 1.0,
+            "is_round_bottom": true,
+            "color_pressed": "#70C1B3"
+        }
+    ] 
+}
