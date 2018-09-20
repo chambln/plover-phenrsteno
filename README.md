@@ -1,12 +1,12 @@
 # [Phenrsteno](https://github.com/contrum/plover-phenrsteno/wiki)
 
-![Stenotype layout for Phenrsteno](https://raw.githubusercontent.com/wiki/contrum/plover-phenrsteno/png/layout.png)
+![Stenotype layout for Phenrsteno][layout]
 
 Non-rhotic and purely phonemic system for [Plover](https://github.com/openstenoproject/plover). See the [wiki](https://github.com/contrum/plover-phenrsteno/wiki) to learn more.
 
 ## Installation
 
-1.  Install [Plover version 4.x.x](https://github.com/openstenoproject/plover/releases)
+1.  Install [Plover version 4.x.x][plover-releases]
 2.  In the main Plover window, select `Plugins Manager` from the toolbar
       - In the plugins list, find and select plover-phenrsteno and click `Install/Update`
 3.  Quit (Ctrl-q) and re-open Plover
@@ -14,6 +14,10 @@ Non-rhotic and purely phonemic system for [Plover](https://github.com/openstenop
       - Go to the `System` tab
       - Select `Phenrsteno` from the dropdown box
       - Click `OK`
+      
+![Phenrsteno layout display][layout-display-png]
+      
+If you like, you can download [layout-display.json][layout-display-json] to load into Ted Morin's [layout display plugin][plover-layout-display].
 
 ## Usage
 
@@ -25,3 +29,9 @@ Once installed, you have two options:
 You can [download my dictionaries from this repository](https://github.com/contrum/plover-phenrsteno/tree/master/json). `verbatim.json` is for fingerspelling individual letters. `vocabulary.json`, `prefixes.json`, and `suffixes.json` are for transcribing (British) English words.
 
 In Plover, click the big green plus icon to add dictionaries.
+
+[layout]: https://raw.githubusercontent.com/wiki/contrum/plover-phenrsteno/png/layout.png
+[plover-releases]: https://github.com/openstenoproject/plover/releases
+[layout-display-json]: https://github.com/contrum/plover-phenrsteno/blob/master/layout-display.json
+[layout-display-png]: https://raw.githubusercontent.com/wiki/contrum/plover-phenrsteno/png/layout-display.png
+[plover-layout-display]: https://github.com/morinted/plover_layout_display
