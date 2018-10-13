@@ -17,6 +17,10 @@
 3-dimensional:
 - 3d-6n7d9
 - 3d-9
+==:
+- pbw*l/pbw*l
+===:
+- pbw*l/pbw*l/pbw*l
 AI:
 - eI/aI
 AWOL:
@@ -57,6 +61,9 @@ Blake:
 Britain:
 - br*Itl
 - brInt
+Burnham:
+- beIU/bd-fntd
+- beIUfntd
 Byrde:
 - be*IUd
 Cassandra:
@@ -462,6 +469,8 @@ acceptance:
 - atd/seft/t-nz
 accident:
 - atd/sIdl
+acclamation:
+- atdl/bdreIS
 accord:
 - XpbaeIUd
 according:
@@ -577,6 +586,8 @@ advise:
 - ad/sdaIz
 advisor:
 - XsdaIzx
+aeroplane:
+- XptdeIn
 affect:
 - Xsbetd
 affirm:
@@ -648,6 +659,8 @@ air:
 - e
 aircraft:
 - e/pbraft
+airplane:
+- e/ptdeIn
 airy:
 - XrIU
 - XwrIU
@@ -970,6 +983,10 @@ around:
 - XraUnd
 arouse:
 - XraUz
+arpeggiate:
+- aIU/pedS/eIt
+- aIU/pedS/wreIt
+- aIUft/dwreIt
 arrange:
 - XreIndS
 arrest:
@@ -1618,6 +1635,8 @@ brake:
 - bre*Itd
 brand:
 - brand
+breach:
+- brIUtS
 break:
 - breItd
 breakfast:
@@ -1845,6 +1864,8 @@ cartel:
 case:
 - pbeIf
 - pbeIz
+cash:
+- pbaS
 cast:
 - pba*ft
 - pbaIUft
@@ -1961,6 +1982,8 @@ cherub:
 - twreftS
 chest:
 - twreft
+chew:
+- twreU
 child:
 - twraInd
 childish:
@@ -2145,6 +2168,8 @@ comfortable:
 coming:
 - pb-fntdg
 command:
+- bdraIUnd
+- pbdraIUnd
 - pbdrand
 comment:
 - pbae/bdrent
@@ -2198,6 +2223,9 @@ completely:
 - pbaefntd/ptdIUtli
 complex:
 - pb-fntd/ptdetdz
+complicate:
+- pbaefntd/ptdI/pbeIt
+- pbaefntd/ptdItd/eIt
 component:
 - pb-fntd/paeU/bd-nt
 - pb-fntd/paeUnt
@@ -2721,7 +2749,9 @@ dictionary:
 - dItd/swr-n/ei
 - dItd/swr-n/rIU
 - dItd/swr-ni
+- dItd/swrIU
 - dItdS/bdei
+- dItdS/rIU
 - dItdSl/ei
 - dItdSl/rIU
 - dItdSli
@@ -2949,6 +2979,8 @@ download:
 - daUn/tdaeUd
 downside:
 - daUn/saId
+draft:
+- draIUft
 drag:
 - drag
 dragon:
@@ -2957,6 +2989,9 @@ dragonfly:
 - dragl/sbtdaI
 drain:
 - dreIn
+draught:
+- dra*IUft
+- dra*ft
 draw:
 - draIU
 - draeIU
@@ -3107,6 +3142,7 @@ efficient:
 - sbwr-nt
 efficiently:
 - XsbISl
+- sbInSl
 - sbwr-ntl
 - sbwr-ntli
 effort:
@@ -3215,6 +3251,10 @@ enough:
 enter:
 - ent
 - entx
+enthuse:
+- btdwreUz
+enthused:
+- btdwreUfd
 entire:
 - In/ta
 - Int/ta
@@ -3371,6 +3411,14 @@ exchange:
 - etd/stwreIndS
 - etdz/twreIndS
 - spbtwreIndS
+exclude:
+- Itdz/pbtdeUd
+excluded:
+- Itdz/pbtdId
+exclusion:
+- Itdz/pbtdeUS
+exclusional:
+- Itdz/pbtdeUSl
 excuse:
 - XspbwreUz
 - spbwreUz
@@ -4123,6 +4171,10 @@ grandmother:
 - ptrand/bdrUtdS
 grant:
 - ptrant
+graph:
+- ptraf
+graphs:
+- ptrafz
 grapple:
 - ptraftl
 grasp:
@@ -4639,6 +4691,9 @@ individual:
 - XsdIdl
 industry:
 - Ind/strIU
+inefficient:
+- In/sbIS
+- In/sbISl
 inevitable:
 - XbdeftSl
 - bdeftSl
@@ -6450,6 +6505,7 @@ perfectly:
 perhaps:
 - Xptwaftz
 - paftz
+- praftz
 - ptwaftz
 peril:
 - pel
@@ -7873,6 +7929,8 @@ so hold:
 - sptwaeUnd
 so if:
 - sIf
+so is:
+- sIz
 so many:
 - sbdreni
 so she:
@@ -8104,8 +8162,16 @@ stat:
 - stat
 state:
 - steIt
+states:
+- steItz
 station:
 - steISl
+status:
+- stUz
+- ste*Itz
+- steI/t-z
+- steI/tUz
+- steIt/Uz
 stave:
 - steIf
 stay:
@@ -8505,6 +8571,8 @@ temptation:
 - tefntd/teISl
 ten:
 - ten
+tend:
+- tend
 tender:
 - tendx
 tennant:
@@ -8780,6 +8848,8 @@ thunderstorm:
 - btUndx/staeIUfntd
 thunk:
 - btUntd
+thuse:
+- btwreUz
 thwack:
 - btwatd
 tick:
@@ -9796,9 +9866,11 @@ you won't:
 you would:
 - wUd
 you'd:
+- Ud
 - wr-d
 - wreUd
 you'll:
+- Ul
 - wr-l
 - wrUl
 you're:
@@ -9885,7 +9957,7 @@ zoom:
 - sp*
 '{^''ll}':
 - '*Il'
-- Ul
+- '*Ul'
 '{^''s}':
 - '*z'
 '{^-^}':
@@ -9932,6 +10004,10 @@ zoom:
 '{^ian}':
 - IUn
 - wr*n
+'{^iast}':
+- wraft
+'{^iast}{^ic}':
+- wraftd
 '{^ible}':
 - -ftS
 - IftSl
@@ -9948,6 +10024,8 @@ zoom:
 '{^ing}':
 - -g
 - -ng
+'{^ing}{^s}':
+- -gz
 '{^inning}':
 - Ing
 '{^ish}':
@@ -9995,6 +10073,8 @@ zoom:
 - aex
 '{^ous}':
 - '*Uz'
+'{^rant}':
+- r-nt
 '{^rious}':
 - rIUz
 '{^rous}':
