@@ -2784,6 +2784,7 @@ different:
 - dIfnt
 - dr-nt
 differently:
+- dIfntl
 - dr-ntl
 - dr-ntli
 differs:
@@ -2805,6 +2806,8 @@ digital:
 - dIdSl
 diligent:
 - dIl/dwr-nt
+dilly:
+- dIli
 dim:
 - dIfntd
 dime:
@@ -3023,6 +3026,8 @@ drive:
 drop:
 - dr-ft
 - draeft
+dropbox:
+- draeft/baetdz
 drought:
 - draUt
 drove:
@@ -5757,6 +5762,9 @@ multiple:
 - XtIftl
 - bdrIftl
 - bdrUftl
+- bdrUl/p-l
+- bdrUl/pUl
+- bdrUl/tIU/p-l
 - bdrUl/tIftl
 - bdrUnti/p-l
 - bdrUntl
@@ -8171,7 +8179,9 @@ status:
 - ste*Itz
 - steI/t-z
 - steI/tUz
+- steIUz
 - steIt/Uz
+- steUz
 stave:
 - steIf
 stay:
