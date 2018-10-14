@@ -26,9 +26,14 @@ Once installed, you need to load a dictionary. You can [download my dictionaries
 
 In Plover, click the big green plus icon to add dictionaries.
 
+## Support and discussion
+
+Come and chat with us in the [Plover Discord group][discord]! Tag your message with `@contrum#1483` to get my attention (eventually). I'm happy to talk about and help you with Phenrsteno and stenography in general.
+
 [layout]: https://raw.githubusercontent.com/wiki/contrum/plover-phenrsteno/png/layout.png
 [plover-releases]: https://github.com/openstenoproject/plover/releases
 [layout-display-json]: https://github.com/contrum/plover-phenrsteno/blob/master/layout-display.json
 [layout-display-png]: https://raw.githubusercontent.com/wiki/contrum/plover-phenrsteno/png/layout-display.png
 [plover-layout-display]: https://github.com/morinted/plover_layout_display
 [plover-yaml-dictionary]: https://github.com/nsmarkop/plover_yaml_dictionary
+[discord]: https://discord.gg/0lQde43a6dGmAMp2
