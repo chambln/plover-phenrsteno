@@ -407,8 +407,6 @@ William:
 YouTube:
 - wreU/twreUftS
 - wreUtS
-'[{^}':
-- pbtd
 \{{^}:
 - ptd
 a:
@@ -2130,8 +2128,11 @@ color:
 - pbUnx
 colour:
 - pbUl
+- pbtd
 - pbtdeIU
 - pbtdr
+coloured:
+- pbtd-d
 colourful:
 - pbtd-fl
 colours of:
@@ -2482,6 +2483,8 @@ crystal:
 - pbrIftl
 cube:
 - pbwreUftS
+cuddle:
+- pbUdl
 cuff:
 - pbUf
 cuffs:
@@ -7779,7 +7782,6 @@ sim:
 - s*Ifntd
 similar:
 - sIfntd
-- sbdr
 - sbdreIU
 similarly:
 - sIfntd/tdIU
@@ -10106,16 +10108,6 @@ zoom:
 '{^y}':
 - -i
 - IU
-'{^})':
-- -tdg
-'{^}\}':
-- -tdS
-'{^}]':
-- -tdSg
-'{^–^}':
-- dr*nd
-'{^…^}':
-- pbtd*tdSg
 '{ab^}':
 - aftS
 '{ad^}':
