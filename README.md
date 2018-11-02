@@ -2,7 +2,7 @@
 
 ![Stenotype layout for Phenrsteno][layout]
 
-Non-rhotic and purely phonemic system for [Plover](https://github.com/openstenoproject/plover). See the [wiki](https://github.com/contrum/plover-phenrsteno/wiki) to learn more.
+Non-rhotic and truly phonemic system for [Plover](https://github.com/openstenoproject/plover). See the [wiki](https://github.com/contrum/plover-phenrsteno/wiki) to learn more.
 
 ## Installation
 
