@@ -28,7 +28,7 @@ In Plover, click the big green plus icon to add dictionaries.
 
 ## Support and discussion
 
-Come and chat with us in the [Plover Discord group][discord]! Tag your message with `@contrum#1483` to get my attention (eventually). I'm happy to talk about and help you with Phenrsteno and stenography in general.
+Come and chat with us in the [Plover Discord group][discord]! Tag your message with `@chambln#1483` to (eventually) get my attention.
 
 [layout]: https://raw.githubusercontent.com/wiki/contrum/plover-phenrsteno/png/layout.png
 [plover-releases]: https://github.com/openstenoproject/plover/releases
