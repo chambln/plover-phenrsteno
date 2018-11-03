@@ -86,6 +86,10 @@ Ben:
 - ben
 Blake:
 - btdeItd
+Brexit:
+- bretd/sIt
+Brexitted:
+- bretd/sItd
 Brit:
 - brIt
 Britain:
@@ -171,6 +175,8 @@ Dubai:
 - dwreU/baI
 Dwayne:
 - dweI
+EU:
+- IU/wreU
 Earth's:
 - eIUtdSz
 England:
@@ -219,6 +225,7 @@ Gavin:
 German:
 - dwr-fntdl
 - dwreIUfntdl
+- ptweIUfntdl
 Germany:
 - dwreIUfntdli
 Gilbert:
@@ -269,6 +276,7 @@ I:
 - I
 I am:
 - Xafntd
+- wraIfntd
 - wrafntd
 I can:
 - pbIn
@@ -306,6 +314,7 @@ I'll:
 - aIUl
 - al
 I'm:
+- I/aIfntd
 - aIfntd
 I'm willing:
 - wIgl
@@ -393,7 +402,7 @@ London:
 - tdUn/d-n
 - tdUndl
 Maeve:
-- bdreIf
+- bdre*If
 Maggie:
 - bdragi
 March:
@@ -545,6 +554,8 @@ Rob:
 Robert:
 - rae/b-t
 - raeftS/eIUt
+Ron:
+- raen
 Roo:
 - re*U
 Ross:
@@ -580,8 +591,14 @@ Spanish:
 - spanS
 Spotify:
 - spaet/sbaI
+Steph:
+- stef
+Steph's:
+- stefz
 Stephan:
 - stefn
+Stephan's:
+- stefnz
 Steve:
 - stIUf
 Strang:
@@ -589,11 +606,15 @@ Strang:
 Sunday:
 - sUn/deI
 - sUnd
+Swiss:
+- swIf
 Sylvan:
 - sIl/sd-n
 - sIl/sdan
 TA:
 - twreI
+TV:
+- tIU/sdIU
 Tetris:
 - te/trIf
 Thursday:
@@ -637,6 +658,8 @@ Viennese:
 - sdwrenz
 WAN:
 - wan
+WIP:
+- w*Ift
 Wahoo:
 - wa/ptweU
 - waIU/ptweU
@@ -676,6 +699,10 @@ a part of:
 - Xp-ft
 aInzx:
 - aInz
+abaci:
+- aftS/pbaI
+abacus:
+- aftS/pbUf
 abandon:
 - Xban/d-n
 - ban/d-n
@@ -737,8 +764,14 @@ accept:
 acceptance:
 - Xseftlz
 - atd/seft/t-nz
+access:
+- atd/sef
+accesses:
+- atd/sefz
 accession:
 - atd/seS
+accessories:
+- atd/sef/rIUz
 accident:
 - atd/sIdl
 - atdz/d-nt
@@ -1095,6 +1128,7 @@ always:
 am:
 - afntd
 amass:
+- Xbdraf
 - Xbdraz
 amateur:
 - Xbdr-t
@@ -1295,6 +1329,9 @@ apple:
 - aftl
 appliance:
 - XptdaInz
+application:
+- aft/tdItdS
+- aftl/pbeIS
 apply:
 - XptdaI
 appoint:
@@ -1329,6 +1366,8 @@ are:
 - r
 are you:
 - rU
+are you sure:
+- Xswr
 are you willing:
 - aIU/wUgl
 area:
@@ -1362,6 +1401,7 @@ arms:
 - aIUfntdz
 around:
 - XraUnd
+- r-nd
 arouse:
 - XraUz
 arpeggiate:
@@ -1468,6 +1508,9 @@ assure:
 - XswraeIU
 assured:
 - swraeIUd
+asterisk:
+- XstrIftd
+- aft/rIftd
 astronomy:
 - Xstraen/bdrIU
 - Xstraenx/bdrIU
@@ -1706,6 +1749,7 @@ bass:
 - baf
 - baz
 - be*If
+- saf
 bat:
 - bat
 batch:
@@ -2002,6 +2046,8 @@ blonde:
 - btdaend
 blood:
 - btdUd
+bloom:
+- btdeUfntd
 blow:
 - btdaeU
 blue:
@@ -2173,7 +2219,9 @@ buddy:
 budge:
 - bUdS
 budget:
+- bU/dwrIt
 - bUdS/It
+- bUtdS
 buff:
 - bUf
 bug:
@@ -2194,6 +2242,11 @@ bum:
 - b*Ufntd
 bunch:
 - bUntS
+bung:
+- bUng
+bungee:
+- bUndS
+- bUndSi
 buried:
 - bU/rIUd
 - be/rIUd
@@ -2213,6 +2266,7 @@ bush:
 - bUS
 business:
 - bIfnz
+- bIz/bdIf
 - bIz/bdIz
 busy:
 - bI/sIU
@@ -2238,6 +2292,8 @@ by:
 - baI
 by the way:
 - btw
+by the way{,}:
+- btw-dg
 byte:
 - ba*It
 - bwaIt
@@ -2332,6 +2388,8 @@ cape:
 capital:
 - pbaft/t-l
 - pbaftl
+capitalism:
+- pbaftl/Ifntd
 car:
 - pbaIU
 carbon:
@@ -2346,6 +2404,9 @@ careful:
 - pbefl
 carefully:
 - pbefli
+careless:
+- pbef
+- pbelz
 carnivore:
 - pbaIUn/sdaeIU
 carpet:
@@ -2434,6 +2495,8 @@ cess:
 - se*f
 cest:
 - se*ft
+chafe:
+- twre*If
 chain:
 - twreIn
 chair:
@@ -2485,6 +2548,7 @@ charred:
 chart:
 - twraIUt
 chase:
+- twreIf
 - twreIz
 chat:
 - twrat
@@ -2575,6 +2639,7 @@ circumstance:
 - spb-fntd/stanz
 citation:
 - saI/teIS
+- saI/teISl
 - saItS
 citational:
 - saISl
@@ -2588,6 +2653,8 @@ claim:
 - pbtdeIfntd
 clam:
 - pbtdafntd
+clap:
+- pbtdaft
 class:
 - pbtdaz
 clean:
@@ -2650,6 +2717,8 @@ cock:
 - pbaetd
 coconut:
 - pbaeUtd/bdUt
+cod:
+- pbaed
 code:
 - pbaeUd
 coffee:
@@ -2663,7 +2732,9 @@ coin:
 coke:
 - pbaeUtd
 cold:
+- pbaeUdl
 - pbaeUnd
+- pbaedl
 - pbaend
 cole:
 - pbae*Ul
@@ -2728,10 +2799,13 @@ command:
 - pbdraIUnd
 - pbdrand
 comment:
+- pbae/bdr-nt
 - pbae/bdrent
 - pbaefntd/-nt
 - pbaefntd/bdrent
 - pbaefntd/ent
+- pbdr-nt
+- pbdrent
 commie:
 - pbae*fntdi
 commit:
@@ -2746,6 +2820,7 @@ common:
 - pbaefntdl
 community:
 - pb-fntd/wreUnti
+- pbdreUnti
 - pbdwreUnti
 company:
 - Xp-ni
@@ -2844,6 +2919,7 @@ confusion:
 - pbaen/sbwreUS
 connect:
 - Xbdetd
+- bde*td
 - pbdetd
 connection:
 - pbdetdSl
@@ -2935,6 +3011,8 @@ cook:
 - pbUtd
 cool:
 - pbeUl
+cop:
+- pbae*ft
 coprime:
 - pbaeU/praIfntd
 copy:
@@ -2958,6 +3036,9 @@ correctly:
 - pbr-tdli
 - pbretdl
 - pbretdli
+correspond:
+- Xspaend
+- pbae/spaend
 correspondingly:
 - pbrI/spaendgl
 - pbrI/spaendgli
@@ -3020,8 +3101,9 @@ courses:
 court:
 - pbae*IUt
 cover:
-- pb*Uf
 - pbUfx
+covered:
+- pbUfdx
 covers:
 - pb*Ufz
 covet:
@@ -3060,6 +3142,12 @@ credit:
 - pbred/It
 criminal:
 - pbrIfntdl
+crises:
+- pbraI/sIUz
+crisis:
+- pbraI/sIf
+- pbraI/sIz
+- pbraIfz
 crit:
 - pbrIt
 criticise:
@@ -3086,7 +3174,9 @@ cube:
 cuddle:
 - pbUdl
 cuff:
-- pbUf
+- pb*Uf
+cuffed:
+- pb*Ufd
 cuffs:
 - pbUfz
 culture:
@@ -3110,7 +3200,6 @@ current:
 - pbU/r-nt
 - pbr-nt
 curse:
-- pb*f
 - pbeIUf
 cursed:
 - pb-ft
@@ -3127,6 +3216,9 @@ cusion:
 - pbUSl
 cuss:
 - pb*Uz
+- pbUf
+cussed:
+- pbUfd
 customers:
 - pbUft/bdr-z
 - pbt-fntdz
@@ -3568,9 +3660,12 @@ disappear:
 - dIz/XpIx
 disc:
 - d*Iftd
+discipline:
+- dIf/ptdIn
 disconnect:
 - Xpbdetd
 discord:
+- dIf/pbaeIUd
 - dIftdx
 - dIz/pbaeIUd
 discuss:
@@ -3767,6 +3862,8 @@ drip:
 - drIft
 drive:
 - draIf
+drool:
+- dreUl
 drop:
 - dr-ft
 - draeft
@@ -3811,6 +3908,8 @@ dumber:
 - dUfntdx
 dune:
 - dwre*Un
+dung:
+- dUng
 dunno:
 - d-nx
 - dUnx
@@ -3870,6 +3969,8 @@ easy:
 - IUz/i
 eat:
 - IUt
+ebay:
+- IU/beI
 eclipse:
 - I/pbtdIftz
 - XpbtdIftz
@@ -4106,7 +4207,6 @@ essay:
 - XseI
 - e/seI
 - ef/eI
-- ef/seI
 estate:
 - XsteIt
 estimate:
@@ -4154,6 +4254,8 @@ everything:
 - sdrIng
 everywhere:
 - brIU/we
+- ef/we
+- efi/we
 evidence:
 - XsbIdlz
 - XsdIdlz
@@ -4166,6 +4268,7 @@ evil:
 - XsdIl
 - sdIl
 ew:
+- XwreU
 - wre*U
 ex:
 - e*tdz
@@ -4270,6 +4373,8 @@ expect:
 expense:
 - Itdz/penz
 - etdz/penz
+expensive:
+- Itdz/peInz/If
 experience:
 - Itd/spI/rIUnz
 - Itd/spr-nz
@@ -4316,6 +4421,8 @@ extend:
 - Xstend
 - etd/stend
 - stend
+extensive:
+- Itdz/tenz/If
 extinct:
 - Itdz/tIntd
 extra:
@@ -4598,6 +4705,8 @@ fizzy:
 - sbIzi
 flag:
 - sbtdag
+flame:
+- sbtdeIfntd
 flash:
 - sbtdaS
 flat:
@@ -4662,6 +4771,7 @@ follow:
 - sbae/tdaeU
 - sbael
 - sbtdae*U
+- sbtdw
 fond:
 - sbaend
 font:
@@ -4686,6 +4796,12 @@ for her:
 - sptw
 for it:
 - sbrIt
+for me:
+- sbdrIU
+for now:
+- sbda*U
+for sure:
+- sb-S
 for that:
 - sbtat
 for the:
@@ -4764,6 +4880,8 @@ fourier:
 - sbaeIU/rIx
 - sbaeIUx
 - sbrI
+fourteen:
+- sbaeIU/tIUn
 fox:
 - sbaetdz
 fraction:
@@ -4843,6 +4961,8 @@ full of:
 fun:
 - sbUn
 function:
+- sbUntdS
+functional:
 - sbUntdSl
 fund:
 - sbUnd
@@ -4873,8 +4993,17 @@ gain:
 - pteIn
 gains:
 - pteInz
+gall:
+- ptaeIUl
+gallery:
+- ptal/rIU
+- ptdrIU
 galley:
 - ptali
+gallstone:
+- ptaeIUl/staeUn
+gallstones:
+- ptaeIUl/staeUnz
 game:
 - pteIfntd
 gamma:
@@ -4934,6 +5063,7 @@ generously:
 - dwren/r-fli
 - dwren/r-lz
 genetic:
+- dwr/bdetd
 - dwrI/bdet/Itd
 - dwrIn/XtItd
 - dwrIn/et/Itd
@@ -4944,11 +5074,16 @@ genital:
 - dwre*ntl
 genitals:
 - dwrentlz
+gent:
+- dwrent
 gentle:
 - dwren/t-l
 - dwrentl
 gently:
 - dwrentli
+genuine:
+- dwren/wIn
+- dwren/wreU/wIn
 genus:
 - dwrIUn/Uz
 - dwren/Uz
@@ -4997,19 +5132,28 @@ giving:
 glad:
 - ptdad
 glance:
-- ptdanz
+- ptdaIUnz
 gland:
 - ptdand
+glands:
+- ptdaIUndz
+- ptdandz
+glans:
+- ptda*nz
 glare:
 - ptde
 glass:
+- ptdaIUf
 - ptdaIUz
+- ptdaf
 - ptdaz
 glasses:
 - ptdaIUfz
 - ptdafz
 glaze:
 - ptdeIz
+glazing:
+- ptdeIgz
 globe:
 - ptdaeUftS
 gloom:
@@ -5251,7 +5395,7 @@ hallam:
 hallway:
 - ptwaeIUl/weI
 ham:
-- ptwafntd
+- ptwa*fntd
 hammer:
 - ptwafntdx
 hand:
@@ -5264,15 +5408,20 @@ hap:
 - ptwa*ft
 happen:
 - ptw-ft
+- ptwa*fnt
+- ptwafnt
 - ptwaftl
 - wraftl
 happened:
+- ptwafntd
 - ptwaftd
 - ptwaftdl
 - wraftdl
 happening:
+- ptwafntg
 - ptwaftg
 happens:
+- ptwafntz
 - ptwaftlz
 happier:
 - ptwaftix
@@ -5296,7 +5445,7 @@ has:
 - ptw-z
 - ptwaz
 hasn't:
-- ptwafn
+- ptwantz
 haste:
 - ptweIft
 hat:
@@ -5316,7 +5465,7 @@ have no:
 have to:
 - ptwaft
 haven't:
-- ptwafnt
+- ptwafn
 hawk:
 - ptwaeIUtd
 hazard:
@@ -5337,6 +5486,10 @@ he's:
 - ptwIUz
 head:
 - ptwed
+header:
+- ptwedx
+headers:
+- ptwedzx
 headphone:
 - ptwed/sbaeUn
 headphones:
@@ -5358,6 +5511,9 @@ heart:
 - ptwaIUt
 heat:
 - ptwIUt
+heather:
+- ptwetdS
+- ptwetdSx
 heavy:
 - ptwefi
 heed:
@@ -5368,6 +5524,8 @@ height:
 - ptwaIt
 held:
 - ptwend
+helicopter:
+- ptwel/pbaeft
 hell:
 - ptwel
 hella:
@@ -5404,7 +5562,11 @@ heroine:
 hers:
 - ptweIUz
 herself:
+- ptw-fl
+- ptw/sef
+- ptweIUfl
 - sptwef
+- sptwefl
 hesitate:
 - ptwe/steIt
 - ptwe/teIt
@@ -5430,8 +5592,11 @@ hijab:
 hill:
 - ptwIl
 him:
+- pbtdwr
 - ptwIfntd
 himself:
+- pbtdwr-fl
+- ptwIfl
 - ptwIfntd/sef
 - spbtdwref
 hind:
@@ -5440,6 +5605,8 @@ his:
 - ptwIz
 hiss:
 - ptwIf
+hisself:
+- ptw*Ifl
 history:
 - ptwIfti
 - ptwIz/trIU
@@ -5490,10 +5657,17 @@ hope:
 - ptwaeUft
 hopeful:
 - ptwaeUftl
+horizon:
+- ptw/raIfn
+- ptwraIfn
 horizontal:
+- ptwae/rI/saefntl
 - ptwae/rI/saen/t-l
+- ptwae/rI/saentl
+- ptwae/rIfntl
 - ptwaefntl
 - ptwr-fntl
+- ptwrIfntl
 horse:
 - ptwaeIUz
 hospital:
@@ -5598,6 +5772,8 @@ hydroplane:
 - ptwaI/dr/ptdeIn
 - ptwaI/draeU/ptdeIn
 - ptwaId/ptdeIn
+hymn:
+- ptw*Ifntd
 ice:
 - a*If
 icicle:
@@ -5682,6 +5858,10 @@ important:
 - XpaeIUtl
 - XpbdraeIUtl
 - p-nt
+imported:
+- Ifntd/paeIUtd
+importing:
+- Ifntd/paeIUtg
 impression:
 - Ifntd/preS
 - Ifntd/preSl
@@ -5782,6 +5962,8 @@ infinitely:
 - XsbIntli
 inflation:
 - sbtdeIS
+info:
+- In/sbaeU
 inform:
 - In/sbaeIUfntd
 information:
@@ -5973,6 +6155,10 @@ is it:
 - XsIt
 - XsrIt
 - srIt
+is it a:
+- XsaIt
+is it the:
+- sbtIt
 is not:
 - sbd-t
 - sbdaet
@@ -5997,6 +6183,9 @@ isn't it:
 - Iz/bdIt
 issue:
 - XswreU
+issues:
+- ISz
+- XswreUz
 it:
 - It
 it all:
@@ -6018,6 +6207,9 @@ it's:
 - Itz
 it's the:
 - btItz
+it's time:
+- XstaIfntd
+- sta*Ifntd
 itch:
 - ItS
 itches:
@@ -6046,6 +6238,8 @@ jam:
 - dwrafntd
 jar:
 - dwraIU
+jasmine:
+- dwraz/bdrIn
 jaw:
 - dwraeIU
 jeans:
@@ -6053,6 +6247,9 @@ jeans:
 jerk:
 - dwreIUtd
 - dwrtd
+jersey:
+- dwreIUz
+- dwreIUzi
 jew:
 - dwre*U
 job:
@@ -6105,6 +6302,8 @@ keep:
 - pbIUft
 kept:
 - pbeft
+kevlar:
+- pbe*fl
 key:
 - pbIU
 keyboard:
@@ -6249,7 +6448,9 @@ lap:
 large:
 - tdaIUdS
 lass:
-- tdaf
+- tda*f
+lassie:
+- tdafi
 last:
 - tdaIUft
 lat:
@@ -6266,8 +6467,11 @@ lation:
 - tdeItS
 laugh:
 - tdaIUf
+- tdaf
 lava:
 - tdaIUfx
+lavatory:
+- tdaf/trIU
 law:
 - tdaeIU
 law of:
@@ -6345,6 +6549,8 @@ lesson:
 - tdefn
 lessons:
 - tdefnz
+lest:
+- tde*ft
 let:
 - tdet
 let's:
@@ -6462,6 +6668,8 @@ lock:
 - tdaetd
 locker:
 - tdaetdx
+lodge:
+- tdaedS
 log:
 - tdaeg
 logic:
@@ -6543,7 +6751,7 @@ lush:
 ma:
 - bdraIU
 mace:
-- bdreIz
+- bdreIf
 maces:
 - bdreIfz
 machine:
@@ -6553,6 +6761,9 @@ mad:
 - bdrad
 made:
 - bdreId
+madness:
+- bdrad/bd-f
+- bdradlz
 mag:
 - bdrag
 mage:
@@ -6625,10 +6836,14 @@ mapped:
 - bdra*ftd
 mark:
 - bdraIUtd
+markdown:
+- bdraIUtd/daUn
 marked:
 - bdraIUd
 market:
 - bdraIU/pbIt
+markup:
+- bdraIUtd/Uft
 marry:
 - bdra/rIU
 - bdrai
@@ -6645,7 +6860,10 @@ mask:
 mason:
 - bdreIfn
 mass:
+- bdraf
 - bdraz
+massed:
+- bdrafd
 massive:
 - bdraz/If
 mast:
@@ -6692,6 +6910,8 @@ may:
 maybe:
 - bdreIftS
 - bdreIftSi
+maze:
+- bdreIz
 me:
 - bdrIU
 mead:
@@ -7044,10 +7264,13 @@ mount:
 mountain:
 - bdraUntl
 mouse:
+- bdraUf
 - bdraUz
 mouth:
 - bdraUtdS
 - bdraUtdU
+mouths:
+- bdraUtdSz
 move:
 - bdreUf
 moved:
@@ -7122,6 +7345,7 @@ my:
 - bdra
 - bdraI
 myself:
+- bdr-fl
 - bdr/sef
 - bdraI/sef
 - bdref
@@ -7249,7 +7473,6 @@ newspaper:
 - bdwreUz/peIftx
 next:
 - bd-tdz
-- bde*td
 - bde*tdz
 - bdeftd
 - bdetdz
@@ -7370,6 +7593,8 @@ now:
 - bdaU
 now and:
 - bdaUnd
+nowhere:
+- bd/we
 now{,}:
 - bdaUdg
 no{,}:
@@ -7616,6 +7841,8 @@ one's:
 - wae*nz
 ones:
 - waenz
+online:
+- aen/tdaIn
 only:
 - aeUnl
 - aeUnli
@@ -7633,6 +7860,7 @@ opaque:
 - aeU/peItd
 - peItd
 open:
+- aeUfnt
 - aeUft
 - aeUftl
 opened:
@@ -7909,6 +8137,8 @@ partnership:
 - paIUt/swrIft
 parts:
 - paIUtz
+parts of:
+- paIUftz
 party:
 - paIUti
 pass:
@@ -7967,6 +8197,8 @@ payment:
 - peIfntdl
 payroll:
 - peI/raeUl
+pbwIUti:
+- pbw-ti
 pea:
 - pIU
 peace:
@@ -8011,6 +8243,8 @@ penumbra:
 - pen/bdr-ftS
 people:
 - pIUftl
+pep:
+- pe*ft
 pepper:
 - peftx
 per:
@@ -8097,6 +8331,8 @@ phenomenon:
 - sbdaefntd/bd-fntd
 - sbdaefntd/bd-n
 - sbdaefntd/bdaen
+phew:
+- sbwre*U
 phi:
 - sba*I
 - sbaI
@@ -8146,6 +8382,8 @@ pie:
 - paI
 piece:
 - pIUf
+pieces:
+- pIUfz
 pierce:
 - pIz
 pig:
@@ -8216,6 +8454,8 @@ planet:
 - ptdant
 plank:
 - ptdantd
+plans:
+- ptdanz
 plant:
 - ptdaIUnt
 plate:
@@ -8323,10 +8563,12 @@ possess:
 - spef
 - spez
 possible:
+- p-ftS
 - paeftS
 - paez/-ftSl
 - paez/b-l
 possibly:
+- p-ftSl
 - paeftSl
 - paeftSli
 post:
@@ -8524,9 +8766,13 @@ product:
 - prae/dUtd
 - praetd
 profession:
+- pr-fS
 - praeU/sbeS
+- praeUfS
 professional:
+- pr-fSl
 - praeU/sbeSl
+- praeUfSl
 professor:
 - pr/sbezx
 program:
@@ -8818,6 +9064,10 @@ rear:
 - rIx
 reason:
 - rIUfn
+reasonable:
+- rIUfnl
+- rIUfntSl
+- rIUftSl
 rebuild:
 - rI/bInd
 - rIU/bInd
@@ -8965,6 +9215,8 @@ remind:
 remote:
 - XbdraeUt
 - rI/bdraeUt
+removal:
+- XbdreUfl
 remove:
 - XbdreUf
 removed:
@@ -9000,8 +9252,8 @@ respect:
 - rI/spetd
 - rI/stetd
 respond:
-- Xspaend
 - rI/spaend
+- spaend
 ressurection:
 - rez/retdS
 rest:
@@ -9034,6 +9286,8 @@ rev:
 revenge:
 - rI/sdendS
 - re/sdendS
+review:
+- XsdwreU
 revoke:
 - r*Iftd
 - rI/sdaeUtd
@@ -9138,6 +9392,8 @@ rover:
 row:
 - raU
 - raeU
+rowdy:
+- raUdi
 rows:
 - rae*Uz
 royal:
@@ -9175,6 +9431,8 @@ rust:
 - rUft
 rute:
 - re*Ut
+s'more:
+- sbdraeIU
 sack:
 - satd
 sad:
@@ -9201,6 +9459,8 @@ said:
 - sed
 sail:
 - seIl
+saint:
+- seInt
 sale:
 - se*Il
 salt:
@@ -9229,6 +9489,8 @@ sap:
 - saft
 sapling:
 - saftgl
+sarge:
+- saIUdS
 sat:
 - sat
 satellite:
@@ -9284,6 +9546,8 @@ score:
 - spbaeIU
 scotch:
 - spbaetS
+scourge:
+- spbeIUdS
 scratch:
 - spbratS
 scream:
@@ -9478,6 +9742,10 @@ shall:
 - swral
 shall we:
 - swraUi
+shallow:
+- swra*l
+- swra/tdaeU
+- swralx
 shalt:
 - swrant
 shame:
@@ -9505,6 +9773,8 @@ she's:
 - swrIUz
 shear:
 - swr*I
+shed:
+- swred
 sheer:
 - swrI
 sheesh:
@@ -9519,6 +9789,7 @@ shell:
 shelves:
 - swre*fz
 sheriff:
+- swrIf
 - swre/rIf
 shift:
 - swr*Ift
@@ -9537,6 +9808,8 @@ shirt:
 - swrt
 shit:
 - swrIt
+shiv:
+- swr*If
 shock:
 - swraetd
 shoe:
@@ -9557,6 +9830,8 @@ shoreline:
 - swraeIU/tdaIn
 short:
 - swraeIUt
+shortage:
+- swraeIUtdS
 shorthand:
 - swraeIUt/ptwand
 shot:
@@ -9647,7 +9922,6 @@ similarly:
 - sIfntd/tdIU
 - sIfntdli
 - sbdr-li
-- sbdrIU
 simmer:
 - sIfntdx
 simple:
@@ -9778,6 +10052,10 @@ smooth:
 smoothie:
 - sbdreU/btIU
 - sbdreUtdSi
+smore:
+- sbdrae*IU
+smuggle:
+- sbdrUSl
 smurf:
 - sbdreIUf
 snail:
@@ -9901,17 +10179,34 @@ solemn:
 - saefntd
 some:
 - s-fntd
+- sbdr
 - sbdx
+some of:
+- sbdr-f
+some of the:
+- sbdr-ft
 some of us:
 - sUfz
+some way:
+- sbdwreI
+- swe*I
+some way to:
+- sbdwreIt
+- sweIt
 some'll:
 - s-fntdl
 - sUfntdl
 somebody:
 - sbaedi
+someday:
+- s-fntd/deI
+- sbdr/deI
+- sbdreI
 somehow:
 - s-fntd/ptwaU
 - sUfntd/ptwaU
+- sbdr/ptwaU
+- sbdraU
 - sbdx/ptwaU
 - sptwaU
 someone:
@@ -9919,12 +10214,16 @@ someone:
 - sUfntd/waen
 - sbdraen
 - sbdrn
+- sbdwraen
 - sbdx/waen
 - sw-n
 - swaen
 something:
 - s-fntd/btIng
 - sUfntd/btIng
+- sbdr-g
+- sbdr-ng
+- sbdrIng
 - sbdx/btIng
 - sbt-g
 - sbt-ng
@@ -9932,14 +10231,18 @@ something:
 - sbtIng
 sometime:
 - s-fntd/sptaIfntd
+- staIfntd
 sometimes:
 - staIfntdz
 somewhat:
 - s-fntd/waet
 - sUfntd/waet
+- sbdr-t
+- sbdraet
 somewhere:
 - s-fntd/we
 - sUfntd/we
+- sbdr/we
 - sbdre
 - sbdwre
 - sbdx/we
@@ -10026,6 +10329,8 @@ special:
 specially:
 - speSl
 - speSli
+specific:
+- sp/sIftd
 speck:
 - spetd
 spectrum:
@@ -10130,6 +10435,8 @@ start:
 - staIUt
 start of:
 - staIUft
+starve:
+- sta*IUf
 stat:
 - stat
 state:
@@ -10221,6 +10528,8 @@ story:
 - staeIU/rIU
 - staeIUi
 - strIUi
+stove:
+- staeUf
 straight:
 - streIt
 strange:
@@ -10238,8 +10547,12 @@ strike:
 - straItd
 string:
 - strIng
+strip:
+- strIft
 stripe:
 - straIft
+stripped:
+- strIftd
 stroke:
 - straeUtd
 strong:
@@ -10320,6 +10633,8 @@ such:
 - sUtS
 suck:
 - sUtd
+suction:
+- sUtdS
 sudden:
 - sUdl
 suddenly:
@@ -10466,6 +10781,9 @@ sweep:
 - swIUft
 sweet:
 - swIUt
+sweetly:
+- swIUtl
+- swIUtli
 swell:
 - swel
 swerve:
@@ -10481,6 +10799,12 @@ switch to:
 syllable:
 - sIftSl
 - sIl/b-l
+sympathetic:
+- sIfntd/btetd
+- sIft/btetd
+sympathy:
+- sIfntd/btIU
+- sIft/btIU
 synonym:
 - sIn/bdIfntd
 syringe:
@@ -10524,6 +10848,20 @@ tally:
 - tali
 talored:
 - teId
+tangent:
+- tan/dwr-nt
+- tandS
+tangibility:
+- tandS/bIl/tIU
+- tandS/bInti
+- tandS/bIti
+tangible:
+- tan/dwr-ftSl
+- tandS/b-l
+- tandSl
+tangibly:
+- tandS/btdIU
+- tandSli
 tap:
 - taft
 tape:
@@ -10571,6 +10909,12 @@ technical:
 - tetdl
 technique:
 - tetd/bdIUtd
+technological:
+- tetd/bdael/dwrItdl
+- tetd/dael/dwrItdl
+technology:
+- tetd/bdael/dwrIU
+- tetdl/dwrIU
 tee:
 - t*IU
 teen:
@@ -10669,6 +11013,8 @@ thank you for:
 - sbUf
 thank you for your:
 - sbtwrU
+thankful:
+- btantdl
 that:
 - bt-t
 - btat
@@ -10787,6 +11133,9 @@ these:
 - btIUz
 these were:
 - sw
+thespian:
+- btef/pIUn
+- btefnt
 they:
 - bteI
 they are:
@@ -10838,6 +11187,8 @@ think:
 - bt-td
 - btInd
 - btIntd
+think of:
+- btIfntd
 think so:
 - sbtInd
 - sbtIntd
@@ -10852,6 +11203,8 @@ third:
 thirst:
 - bt-ft
 - bteIUft
+thirteen:
+- bteIU/tIUn
 thirty:
 - bt-ti
 - bteIUt
@@ -10917,6 +11270,8 @@ thuse:
 - btwreUz
 thwack:
 - btwatd
+thyme:
+- ta*Ifntd
 tick:
 - tItd
 tickle:
@@ -10996,6 +11351,8 @@ to where:
 to you:
 - tU
 - twr
+toad:
+- tae*Ud
 toast:
 - taeUft
 tobacco:
@@ -11028,6 +11385,7 @@ toilet:
 - taeI/td-t
 told:
 - taeUnd
+- taedl
 - taend
 tom:
 - taefntd
@@ -11058,6 +11416,10 @@ tooth:
 - teUtdS
 top:
 - taeft
+topical:
+- taeft/Itdl
+- taeft/pb-l
+- taeftl
 tor:
 - tae*IU
 torn:
@@ -11525,6 +11887,10 @@ virus:
 visible:
 - sbIz/b-l
 - sdIz/b-l
+vision:
+- sdIS
+visional:
+- sdISl
 vital:
 - sdaItl
 vitamin:
@@ -11532,6 +11898,10 @@ vitamin:
 - sdItl
 vive:
 - sda*If
+vocab:
+- sdaeU/pbaftS
+vocabulary:
+- sdaeUftSl
 vocal:
 - sdaeUtdl
 voice:
@@ -11569,6 +11939,8 @@ waited:
 - we*Itd
 waiter:
 - weItx
+waiting for:
+- sbweItg
 wake:
 - weItd
 walk:
@@ -11753,6 +12125,8 @@ what:
 - waet
 what are:
 - waetx
+what are you:
+- waeUtx
 what did:
 - waeId
 what do:
@@ -11891,6 +12265,15 @@ wing:
 - wIng
 wins:
 - wInz
+winter:
+- wInt
+- wIntx
+winter's:
+- w*Intz
+- w*Intzx
+winters:
+- wIntz
+- wIntzx
 wipe:
 - waIft
 wire:
@@ -12043,6 +12426,9 @@ wouldn't:
 - wUnt
 wound:
 - waUnd
+- weUnd
+wounds:
+- weUnz
 wove:
 - waeUf
 woven:
@@ -12070,12 +12456,16 @@ wye:
 - wa*I
 y'all:
 - wrae*IUl
+yaml:
+- wrafntdl
 yard:
 - wraIUd
 yaw:
 - wrae*IU
 yawn:
 - wraeIUn
+yay:
+- wreI
 yeah:
 - wre
 yeah, so:
@@ -12153,6 +12543,8 @@ you did:
 - dUd
 you do:
 - dU
+you get:
+- pteUt
 you had:
 - ptdwU
 you know:
@@ -12206,8 +12598,10 @@ yours:
 - wraeIUz
 yourself:
 - Xsef
+- wr-fl
 - wr/sef
 - wraeIU/sef
+- wraeIUf
 - wref
 yourselves:
 - wr/sefz
@@ -12257,6 +12651,10 @@ zoom:
 - tdwr-fntd
 '{,} because':
 - bd-tdg
+'{,} by the way':
+- btdw
+'{,} by the way{,}':
+- btdw-dg
 '{,} right{?}':
 - r-t
 '{,} you know{?}':
@@ -12386,12 +12784,13 @@ zoom:
 '{^ish}':
 - I8
 - US
-- Xswr
 - eS
 '{^ision}{^al}':
 - '*ISl'
 '{^ision}{^al}{^ly}':
 - '*ISli'
+'{^ism}':
+- '*Ifntd'
 '{^ists}':
 - Iftz
 '{^ist}':
