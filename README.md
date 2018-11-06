@@ -1,6 +1,6 @@
 # [Phenrsteno](https://github.com/contrum/plover-phenrsteno/wiki)
 
-![Stenotype layout for Phenrsteno][layout]
+<p align="center"><img src="https://raw.githubusercontent.com/wiki/contrum/plover-phenrsteno/png/layout.png" alt="Stenotype layout for Phenrsteno"/> </p>
 
 Non-rhotic and truly phonemic system for [Plover](https://github.com/openstenoproject/plover). See the [wiki](https://github.com/contrum/plover-phenrsteno/wiki) to learn more.
 
@@ -15,8 +15,10 @@ Non-rhotic and truly phonemic system for [Plover](https://github.com/openstenopr
       - Select `Phenrsteno` from the dropdown box
       - Click `OK`
       
-![Phenrsteno layout display][layout-display-png]
-      
+<p align="center">
+    <img src="https://raw.githubusercontent.com/wiki/contrum/plover-phenrsteno/png/layout-display.png" alt="Phenrsteno layout display"/>
+</p>
+
 If you like, you can download [layout-display.json][layout-display-json] to load into Ted Morin's [layout display plugin][plover-layout-display].
 
 ## Usage
