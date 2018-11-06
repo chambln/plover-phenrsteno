@@ -14,12 +14,12 @@ Non-rhotic and truly phonemic system for [Plover](https://github.com/openstenopr
       - Go to the `System` tab
       - Select `Phenrsteno` from the dropdown box
       - Click `OK`
-      
+
+If you like, you can download [layout-display.json][layout-display-json] to load into Ted Morin's [layout display plugin][plover-layout-display].  
+
 <p align="center">
     <img src="https://raw.githubusercontent.com/wiki/contrum/plover-phenrsteno/png/layout-display.png" alt="Phenrsteno layout display"/>
 </p>
-
-If you like, you can download [layout-display.json][layout-display-json] to load into Ted Morin's [layout display plugin][plover-layout-display].
 
 ## Usage
 
@@ -32,10 +32,8 @@ In Plover, click the big green plus icon to add dictionaries.
 
 Come and chat with us in the [Plover Discord group][discord]! Include `@chambln#1483` in your message to (eventually) get my attention.
 
-[layout]: https://raw.githubusercontent.com/wiki/contrum/plover-phenrsteno/png/layout.png
 [plover-releases]: https://github.com/openstenoproject/plover/releases
 [layout-display-json]: https://github.com/contrum/plover-phenrsteno/blob/master/layout-display.json
-[layout-display-png]: https://raw.githubusercontent.com/wiki/contrum/plover-phenrsteno/png/layout-display.png
 [plover-layout-display]: https://github.com/morinted/plover_layout_display
 [plover-yaml-dictionary]: https://github.com/nsmarkop/plover_yaml_dictionary
 [discord]: https://discord.gg/0lQde43a6dGmAMp2
