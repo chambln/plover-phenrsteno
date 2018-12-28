@@ -472,6 +472,8 @@ Meg:
 - bdreg
 Memrise:
 - bdrefntd/ra*Iz
+Mexico:
+- bdretdz/pbaeU
 Michael:
 - bdraI/pb-l
 - bdraItdl
@@ -633,6 +635,9 @@ Saturday:
 Scotland:
 - spbaet/td-nd
 - spbaetl
+September:
+- seft/tefntd
+- seft/tefntdS
 Sheffield:
 - swre/sbIUdl
 - swref/IUnd
@@ -860,6 +865,8 @@ accidentally:
 - atdz/dentli
 acclamation:
 - atdl/bdreIS
+accommodation:
+- pbaefntd/deIS
 accomplish:
 - Xpbaefntd/ptdIS
 - pbaefntd/ptdIS
@@ -1149,6 +1156,9 @@ all's:
 allergy:
 - XtdwrIU
 - al/dwrIU
+allotment:
+- Xtdaet/bdr-nt
+- tdaet/bdr-nt
 allow:
 - XtdaU
 - tdaU
@@ -1613,6 +1623,8 @@ associate:
 - XsaeU/sIUt
 - saeU/sIU/eIt
 - saeU/sIUt
+association:
+- saeUS/eIS
 assume:
 - XseUfntd
 - XswreUfntd
@@ -2219,6 +2231,8 @@ body:
 - baedi
 bog:
 - baeg
+boil:
+- baeIl
 bold:
 - baeUnd
 bolt:
@@ -2247,6 +2261,8 @@ bored:
 - bae*IUd
 born:
 - baeIUn
+borrow:
+- braeU
 bosh:
 - baeS
 boss:
@@ -2342,6 +2358,8 @@ brink:
 - brIntd
 brittle:
 - brItl
+bro:
+- brae*U
 broke:
 - braeUtd
 broken:
@@ -2549,6 +2567,9 @@ capitalism:
 caption:
 - pba*ftS
 - pbaft/swr-n
+capture:
+- pbaft/twr
+- pbaftSx
 car:
 - pbaIU
 carbon:
@@ -3058,6 +3079,8 @@ complete:
 completely:
 - pb-fntd/ptdIUtli
 - pbaefntd/ptdIUtli
+completion:
+- pb-fntd/ptdIUS
 complex:
 - pb-fntd/ptdetdz
 complicate:
@@ -3113,6 +3136,8 @@ concious:
 - pbaen/swr-z
 - pbaenS
 - pbaenSz
+conciously:
+- pbaenSl
 conclusion:
 - pb-n/pbtdeUS
 concordant:
@@ -3138,6 +3163,8 @@ confuse:
 confusion:
 - pb-n/sbwreUS
 - pbaen/sbwreUS
+congress:
+- pbaen/ptr-f
 connect:
 - Xbdetd
 - bde*td
@@ -3750,6 +3777,8 @@ develop:
 - dI/sdel
 - dIfl
 - dIfnl
+development:
+- dI/sdel/bdr-nt
 devil:
 - defl
 devs:
@@ -3933,6 +3962,8 @@ discord:
 discuss:
 - XspbUz
 - dI/spbUz
+disdain:
+- dIf/deIn
 disease:
 - XsIUz
 - dI/sIUz
@@ -3961,6 +3992,7 @@ distribution:
 - dIft/beUS
 - dIft/bwreUS
 district:
+- dI/strItd
 - dIf/trItd
 - dIft/rItd
 - dIz/trItd
@@ -4117,6 +4149,7 @@ dreamt:
 dredge:
 - dredS
 dress:
+- dref
 - drez
 dried:
 - draId
@@ -4235,6 +4268,7 @@ eastern:
 - IUft/-n
 easy:
 - '*IUz'
+- IU/sIU
 - IUfi
 - IUz/IU
 - IUz/i
@@ -4526,6 +4560,7 @@ everyone:
 - efx/waen
 - sdraen
 everything:
+- ef/bt-ng
 - ef/btIng
 - efx/btIng
 - sbrIng
@@ -4800,6 +4835,8 @@ family:
 - sbafntd/tdIU
 - sbafntdl
 - sbafntdli
+family's:
+- sbafntd/tdIUz
 famous:
 - sbeI/bdr-z
 - sbeIfntd/Uz
@@ -4818,6 +4855,10 @@ fare:
 - sbe*
 farm:
 - sbaIUfntd
+farmer:
+- sbaIUfntdx
+farmers:
+- sbaIUfntdzx
 farther:
 - sba*IUtdS
 fast:
@@ -5119,6 +5160,8 @@ foo:
 - sbeU
 food:
 - sbeUd
+fool:
+- sbeUl
 foot:
 - sbUt
 footed:
@@ -5235,6 +5278,8 @@ fourteen:
 - sbaeIU/tIUn
 fox:
 - sbaetdz
+frack:
+- sbratd
 fraction:
 - sbratdS
 fractional:
@@ -5330,6 +5375,10 @@ funny:
 - sbUni
 fur:
 - sbeIU
+furnish:
+- sbeIU/bd-S
+- sbeIU/bdIS
+- sbeIUnS
 furniture:
 - sb-ntS
 - sbeIUntS
@@ -5495,7 +5544,7 @@ glaive:
 glance:
 - ptdaIUnz
 gland:
-- ptdand
+- ptda*nd
 glands:
 - ptdaIUndz
 - ptdandz
@@ -5897,6 +5946,9 @@ heat:
 heather:
 - ptwetdS
 - ptwetdSx
+heavily:
+- ptwefl
+- ptwefli
 heavy:
 - ptwefi
 heed:
@@ -5997,6 +6049,8 @@ hiss:
 - ptwIf
 hisself:
 - ptw*Ifl
+historian:
+- ptwIft/rIUn
 history:
 - ptwIfti
 - ptwIz/trIU
@@ -6878,6 +6932,8 @@ laptop:
 - tdaft/taeft
 large:
 - tdaIUdS
+lash:
+- tdaS
 lass:
 - tda*f
 lassie:
@@ -7530,6 +7586,11 @@ metro:
 - bdre/traeU
 metron:
 - bdre/traen
+metronome:
+- bdre/tr/bdaeUfntd
+- bdret/bdaeUfntd
+- bdret/tr/bdaeUfntd
+- bdretx/bdaeUfntd
 mew:
 - bdwre*U
 mi:
@@ -8179,7 +8240,6 @@ obscure:
 - aeftS/spbaeIU
 - aeftS/spbwraeIU
 - b/spbwraeIU
-- spbwraeIU
 obscured:
 - spbwraeIUd
 - spbwreIUd
@@ -8474,6 +8534,10 @@ out of:
 - aUft
 outer:
 - aUtx
+outfit:
+- aUt/sbIt
+outfits:
+- aUt/sbItz
 outline:
 - aUt/tdaIn
 outnumber:
@@ -8735,6 +8799,7 @@ pence:
 - pefn
 - pen/-f
 pencil:
+- pen/s-l
 - pen/sIl
 pend:
 - pe*nd
@@ -8975,6 +9040,8 @@ planet:
 - ptdant
 plank:
 - ptdantd
+planned:
+- ptdand
 plans:
 - ptdanz
 plant:
@@ -8995,6 +9062,8 @@ pleasure:
 - ptdeSx
 plex:
 - ptdetdz
+plight:
+- ptdaIt
 plot:
 - ptdaet
 plover:
@@ -9121,6 +9190,10 @@ powered:
 - paUd
 prUf:
 - pr*Uf
+practical:
+- pratd/pb-l
+- pratd/tItdl
+- pratdl
 practically:
 - pratd/tItdli
 - pratdli
@@ -9203,15 +9276,19 @@ pretty:
 preview:
 - pr/sdwreU
 - prI/sdwreU
+- prIU/sdwr
 - prIU/sdwreU
+- prIUf
 - pre/sdwreU
 previous:
 - pr-fz
 - prIU/sbwr-z
 - prIU/sdwr-z
-- prIUf
 - prIUf/wr-z
 - prIUfz
+previously:
+- prIUfl
+- prIUflz
 prey:
 - pre*I
 price:
@@ -9461,6 +9538,7 @@ quantify:
 - pbwaent/sbaI
 quantity:
 - pbwaent
+- pbwaent/tIU
 - pbwaenti
 quart:
 - pbwaeIUt
@@ -9719,6 +9797,8 @@ regular:
 regularly:
 - regl
 - regli
+regulate:
+- reg/tdeIt
 reject:
 - Xdwretd
 - rI/dwretd
@@ -9788,7 +9868,7 @@ rendition:
 reoccur:
 - rIUtdx
 rep:
-- reft
+- re*ft
 repeat:
 - XpIUt
 reply:
@@ -9823,7 +9903,7 @@ respond:
 ressurection:
 - rez/retdS
 rest:
-- re*ft
+- reft
 restaurant:
 - reft/r-nt
 - reft/raent
@@ -10131,6 +10211,8 @@ screw:
 - spbreU
 scribe:
 - spbraIftS
+script:
+- spbrIft
 scuttle:
 - spbUtl
 sea:
@@ -10147,6 +10229,7 @@ sear:
 - s*I
 search:
 - s-tS
+- seIUtS
 - stwr
 searching:
 - stwr-g
@@ -10167,6 +10250,8 @@ second:
 - setd/-nd
 - setdl
 - spb-nd
+secure:
+- spbwraeIU
 sediment:
 - sed/bdr-nt
 sedimentary:
@@ -11119,6 +11204,8 @@ sternum:
 - stUfntd
 stick:
 - stItd
+stifle:
+- staIfl
 still:
 - stIl
 sting:
@@ -11388,6 +11475,8 @@ surf:
 surface:
 - XsbIz
 - seIUfz
+surge:
+- seIUdS
 surgical:
 - seIUdS/Itdl
 - seIUdS/pb-l
@@ -12428,6 +12517,8 @@ up the:
 - btUft
 update:
 - Uft/deIt
+upload:
+- Uft/tdaeUd
 upon:
 - Xpaen
 - paen
@@ -12636,6 +12727,8 @@ voyeur:
 - sdwaeUx
 - sdweIU
 - sdwreIU
+wade:
+- weId
 waft:
 - wae*ft
 wail:
@@ -12704,7 +12797,7 @@ was I:
 was a:
 - waz
 was it:
-- wItz
+- w*Itz
 was to:
 - w-tz
 wash:
@@ -12795,6 +12888,8 @@ weeze:
 - wIUz
 weigh:
 - we*I
+weighed:
+- we*Id
 weight:
 - we*It
 weird:
@@ -13060,7 +13155,7 @@ without:
 - wItdS/aUt
 - waUt
 wits:
-- w*Itz
+- wItz
 witted:
 - w*Itd
 woah:
@@ -13677,6 +13772,8 @@ zoom:
 - pbIlx
 '{mega^}':
 - bdregx
+'{metro^}':
+- bdre/tr
 '{micro^}':
 - bdraItd
 '{mis^}':
