@@ -157,6 +157,7 @@ Charlotte:
 - swraIU/td-t
 - swraIUtl
 China:
+- twraIn
 - twraInx
 Chinese:
 - twraI/bdIUz
@@ -875,6 +876,10 @@ Strang:
 Sunday:
 - sUn/deI
 - sUnd
+Swede:
+- swIUd
+Swedes:
+- swIUdz
 Swiss:
 - swIf
 Sylvan:
@@ -1222,6 +1227,8 @@ advanced:
 - ad/sdandz
 advantage:
 - XsdantdS
+- ad/sdaIUnt/IdS
+- ad/sdaIUntdS
 - ad/sdantdS
 adventure:
 - ad/sdentS
@@ -2513,6 +2520,10 @@ bio:
 - baI/aeU
 - baI/wraeU
 - baIx
+biologic:
+- baI/tdaedS
+biological:
+- baI/tdaedSl
 bird:
 - beIUd
 birth:
@@ -3403,7 +3414,7 @@ collection:
 - pbtdetdS
 college:
 - pbae/tdIdS
-- pbaendS
+- pbaedS
 collide:
 - pbtdaId
 color:
@@ -3516,6 +3527,9 @@ compassionate:
 - pb-fntd/patSl
 compete:
 - pb-fntd/pIUt
+competent:
+- pbaefntd/pt-nt
+- pbaefntd/t-nt
 complement:
 - pbaefntd/ptd-fntdl
 - pbaefntd/ptdI/bdr-nt
@@ -3626,6 +3640,11 @@ confusion:
 - pbaen/sbwreUS
 congress:
 - pbaen/ptr-f
+conjure:
+- pbUndS
+- pbaendS
+conjurer:
+- pbaendSx
 connect:
 - Xbdetd
 - bde*td
@@ -3866,7 +3885,7 @@ crash:
 crashes:
 - pbraSz
 crate:
-- pbreIt
+- pbre*It
 craze:
 - pbreIz
 crazy:
@@ -3878,6 +3897,7 @@ crease:
 - pbrIUz
 create:
 - pbrIU/eIt
+- pbreIt
 - pbwreIt
 created:
 - pbrIUtd
@@ -4311,6 +4331,7 @@ determination:
 - d-tS
 determine:
 - d-t
+- dI/teIUfntd/In
 determined:
 - d-td
 dev:
@@ -4409,6 +4430,8 @@ differ:
 difference:
 - dIf/r-nz
 - dIfnz
+differences:
+- dInz
 different:
 - dI/sbr-nt
 - dIf/r-nt
@@ -4611,10 +4634,13 @@ do we:
 - dwIU
 do you:
 - d*U
+- dwr-x
 - dwrU
 - dwreIU
 do you have:
 - dwraf
+do you know:
+- dwr-n
 docile:
 - daeUfl
 dock:
@@ -5564,6 +5590,8 @@ famously:
 - sbeIfntdlz
 fan:
 - sban
+fantastically:
+- sban/taft/pbtdIU
 fantasy:
 - sbant/sIU
 far:
@@ -6228,6 +6256,10 @@ gaze:
 - pteIz
 gear:
 - ptIUx
+geese:
+- ptIUf
+geeser:
+- ptIUz
 geez:
 - dwrIUz
 gene:
@@ -6767,6 +6799,8 @@ health:
 healthy:
 - ptwel/btIU
 - ptwentdSi
+heap:
+- ptwIUft
 hear:
 - ptw*I
 heard:
@@ -6920,6 +6954,9 @@ hold:
 hold on:
 - ptwaen
 - ptwaendl
+holds:
+- ptwaeUdz
+- ptwaedz
 hole:
 - ptwae*Ul
 holiday:
@@ -7676,9 +7713,6 @@ journal:
 journey:
 - dwr-ni
 - dwreIUni
-jovian:
-- dwraUf/wr-n
-- dwraeU/sdwr-n
 joy:
 - dwraeI
 joyful:
@@ -8288,7 +8322,7 @@ magnetic:
 maid:
 - bdre*Id
 mail:
-- bdreIl
+- bdre*Il
 main:
 - bdreIn
 mainly:
@@ -8319,6 +8353,8 @@ maker:
 - bdreItdx
 makers:
 - bdreItdzx
+male:
+- bdreIl
 mall:
 - bdrae*IUl
 - bdral
@@ -8754,6 +8790,7 @@ modern:
 - bdrae*dl
 - bdrae/d-n
 - bdrae/dIUn
+- bdraed/-n
 - bdraen
 modes:
 - bdraeUdz
@@ -8778,6 +8815,10 @@ moment:
 - bdraeU/bdr-nt
 - bdraeU/bdrnt
 - bdraeUfntdl
+monarch:
+- bdraen/aIUtd
+monarchy:
+- bdraen/aIUtdi
 money:
 - bdrU/bdIU
 - bdrUn
@@ -9214,6 +9255,8 @@ not there:
 - bde
 not to say:
 - bdaetzx
+notation:
+- bdaeU/teIS
 notch:
 - bdaetS
 note:
@@ -9236,6 +9279,8 @@ noticed:
 notices:
 - bdaeUt/s-z
 - daeUt/s-z
+notion:
+- bdaeUS
 noun:
 - bdaUn
 nourish:
@@ -9331,6 +9376,8 @@ o':
 - '*f'
 o'clock:
 - Xpbtdaetd
+oak:
+- aeUtd
 oar:
 - 50IU
 object:
@@ -9493,6 +9540,7 @@ once:
 one:
 - 1*
 - waen
+- wraen
 one of:
 - waefn
 one of these:
@@ -9758,6 +9806,8 @@ pan:
 - pan
 panel:
 - panl
+pans:
+- panz
 pant:
 - pant
 pants:
@@ -10546,8 +10596,13 @@ principle:
 - prInz/p-l
 print:
 - prInt
+prints:
+- prIntz
 prise:
 - pra*Iz
+prison:
+- prI/s-n
+- prIfn
 privacy:
 - pr-fi
 - pra*Ifi
@@ -11773,6 +11828,8 @@ seriously:
 - sr-lz
 - srfli
 - srl
+sermon:
+- seIUfntd
 serve:
 - seIUf
 server:
@@ -12251,6 +12308,8 @@ so it's:
 - swItz
 so many:
 - sbdreni
+so maybe:
+- sbdreIftS
 so now:
 - sbdaU
 so she:
@@ -12353,6 +12412,9 @@ soldering:
 - saedl/rIng
 sole:
 - sae*Ul
+solely:
+- saeUl/tdIU
+- saeUli
 solemn:
 - sae/td-fntd
 - saefntd
@@ -12636,6 +12698,12 @@ square:
 - spbwe
 squircle:
 - spbweIUtdl
+squirrel:
+- spbw-l
+- spbwI/r-l
+- spbwIl
+- spbwrUl
+- spbwrel
 stabilise:
 - steIftS/tdaIz
 - steIftSl/aIz
@@ -13064,6 +13132,8 @@ surgical:
 - seIUdS/Itdl
 - seIUdS/pb-l
 - seIUdSl
+surmount:
+- sbdraUnt
 surprise:
 - spraIz
 surprised:
@@ -13271,12 +13341,17 @@ tee:
 - t*IU
 teen:
 - tIUn
+teenage:
+- tIU/bdeIdS
+- tIUn/eIdS
 teeth:
 - tIUtdS
 television:
 - tel/sdISl
 tell:
 - tel
+telly:
+- teli
 temper:
 - tefntdx
 temperature:
@@ -13614,6 +13689,8 @@ this will:
 - btwIl
 this'd:
 - btIfd
+thistle:
+- btIfl
 thorn:
 - btaeIUn
 those:
@@ -13793,6 +13870,7 @@ toilet:
 - taeI/td-t
 told:
 - taeUdl
+- taed
 - taedl
 - taend
 toll:
@@ -13993,6 +14071,8 @@ truck:
 - trUtd
 'true':
 - treU
+truffle:
+- trUfl
 truly:
 - treUl
 - treUli
@@ -14291,6 +14371,8 @@ utter:
 utterance:
 - Ut/r-nz
 - Utx/r-nz
+utterly:
+- Ut/tdIU
 validate:
 - sdal/deIt
 validated:
@@ -14311,6 +14393,7 @@ valve:
 - sdafn
 - sdal/sd
 vantage:
+- sdaIUntdS
 - sdantdS
 vape:
 - sdeIft
@@ -14467,6 +14550,9 @@ vocal:
 voice:
 - sdaeIf
 - sdaeIz
+voiceover:
+- sdaeIf/aeUf
+- sdaeIf/aeUfx
 volcanic:
 - sdael/pban/Itd
 - sdaentdl
@@ -14757,6 +14843,10 @@ where:
 where's:
 - we/-z
 - wez
+whereas:
+- we/az
+- we/raz
+- wraz
 whereever:
 - wre*f
 wherever:
@@ -14925,6 +15015,7 @@ with his:
 - w-t/ptwIz
 - wItdSz
 with it:
+- btIt
 - btwIt
 - w-t/-t
 - w-t/It
@@ -15176,7 +15267,7 @@ yoghurt:
 - wraeg/eIUt
 - wraetg
 yon:
-- wraen
+- wrae*n
 you:
 - U
 you all:
@@ -15454,6 +15545,8 @@ zoom:
 '{^ible}':
 - -ftS
 - IftSl
+'{^ically}':
+- Itdli
 '{^ical}':
 - Itdl
 - pb-l
