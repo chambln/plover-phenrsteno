@@ -23,7 +23,7 @@ If you like, you can download [layout-display.json][layout-display-json] to load
 
 ## Usage
 
-Once installed, you need to load a dictionary. You can [download my dictionaries from this repository](https://github.com/chambln/plover-phenrsteno/tree/master/yaml). `verbatim.yaml` is for fingerspelling individual letters. `vocabulary.yaml` contains some 10 thousand or so words and phrases. They're in YAML format, so you'll need to either convert them to JSON or install [plover-yaml-dictionary](plover-yaml-dictionary) from the Plugins Manager.
+Once installed, you need to load a dictionary. You can [download my dictionaries from this repository](https://github.com/chambln/plover-phenrsteno/tree/master/yaml). `verbatim.yaml` is for fingerspelling individual letters. `vocabulary.yaml` contains some 6 thousand or so affixes, words and phrases. They're in YAML format, so you'll need to either convert them to JSON or install [plover-yaml-dictionary](plover-yaml-dictionary) from the Plugins Manager.
 <!-- TODO: Set up automatic YAML-to-JSON conversion in this repo -->
 
 In Plover, click the big green plus icon to add dictionaries.
