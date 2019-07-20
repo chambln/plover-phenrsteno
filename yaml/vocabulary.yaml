@@ -445,6 +445,8 @@ I was:
 - wIz
 I will:
 - wIl
+I will be:
+- bwIl
 I would:
 - wId
 I'd:
@@ -747,6 +749,8 @@ Paul:
 - pae*IUl
 Pell:
 - pe*l
+Perl:
+- pe*IUl
 Perth:
 - peIUtdS
 Pete:
@@ -1565,6 +1569,8 @@ and the:
 - -ntdS
 - antdS
 - btand
+and then:
+- bden
 and to:
 - t-nd
 and to the:
@@ -2441,6 +2447,8 @@ belle:
 - be*l
 belly:
 - be*li
+belong:
+- btdaeng
 below:
 - XtdaeU
 - btdae*U
@@ -2721,6 +2729,7 @@ breath:
 - bretdS
 breathable:
 - brIUftSl
+- brIUtdS/-ftSl
 - brIUtdS/b-l
 - brIUtdSl
 breathe:
@@ -2789,6 +2798,8 @@ browser:
 - braUzx
 brush:
 - brUS
+brutal:
+- breUtl
 bud:
 - bUd
 buddy:
@@ -3374,6 +3385,8 @@ closer:
 - pbtdaeUzx
 closes:
 - pbtdaeUfz
+closest:
+- pbtdaeUft
 cloth:
 - pbtdaetdS
 clothe:
@@ -3392,6 +3405,8 @@ clued:
 - pbtde*Ud
 clues:
 - pbtdeUz
+clutch:
+- pbtdUtS
 clutter:
 - pbtdUt
 - pbtdUtx
@@ -4029,6 +4044,8 @@ curse:
 cursed:
 - pb-ft
 - pbeIUft
+cursor:
+- pbeIUfx
 curtain:
 - pb-tl
 - pbeIUtl
@@ -5298,8 +5315,11 @@ evening:
 event:
 - Xsdent
 - sdeInt
+eventual:
+- sdentSl
 eventually:
 - XsdentSli
+- sdentSi
 - sdentSli
 ever:
 - ef
@@ -5309,6 +5329,8 @@ every:
 - ef/rIU
 - efi
 everybody:
+- ef/baed
+- ef/baedi
 - sdrI/baed
 - sdrIftS
 everyone:
@@ -6900,6 +6922,8 @@ heed:
 - ptw*IUd
 heel:
 - ptw*IUl
+heels:
+- ptwIUlz
 height:
 - ptwaIt
 held:
@@ -7206,6 +7230,8 @@ hurt:
 husband:
 - ptwUftSl
 - ptwUz/b-nd
+hutch:
+- ptwUtS
 hydro:
 - ptwaI/draeU
 hydroplane:
@@ -8353,6 +8379,10 @@ lurk:
 - tdeIUtd
 lush:
 - tdUS
+lust:
+- tdUft
+lustful:
+- tdUftl
 lyric:
 - tdrItd
 lyrical:
@@ -8828,6 +8858,8 @@ mirror:
 - bdrIx
 mis:
 - bdrIz
+misery:
+- bdrIz/rIU
 misinform:
 - bdrIz/In/sbaeIUfntd
 miss:
@@ -9050,6 +9082,10 @@ mum:
 - bdrUfntd
 mumble:
 - bdrUfntdSl
+murder:
+- bdreIUd
+murderer:
+- bdreIUdx
 muscle:
 - bdrUfl
 muse:
@@ -9148,6 +9184,11 @@ near:
 - bdIUx
 neared:
 - bd*Id
+nearest:
+- bdI/Ift
+- bdI/rIft
+- bdIft
+- bdr*Ift
 nearly:
 - bdIl
 - bdIli
@@ -9845,6 +9886,8 @@ overheard:
 - aeUf/ptw-d
 overt:
 - XsdeIUt
+overtake:
+- aeUf/teItd
 overwhelm:
 - aeUf/wefntd
 overwhelming:
@@ -10128,7 +10171,9 @@ perfect:
 - p-ftd
 - p/sbItd
 - p/sbetd
+- peIU/sbItd
 - peIU/sbetd
+- spbItd
 - spbetd
 perfectly:
 - p-ftdl
@@ -12865,6 +12910,8 @@ standard:
 - st-nd
 - stan/d-d
 - stand/-d
+standing:
+- standg
 stang:
 - stang
 stank:
@@ -13610,6 +13657,8 @@ that has:
 - btaz
 that if:
 - btaIf
+that if the:
+- btaf
 that is:
 - bta*tz
 - btaIz
@@ -13825,8 +13874,10 @@ this will:
 - btwIl
 this'd:
 - btIfd
-thistle:
+this'll:
 - btIfl
+thistle:
+- bt*Ifl
 thorn:
 - btaeIUn
 those:
@@ -14452,6 +14503,7 @@ unsourced:
 - Un/saeIUfd
 until:
 - Un/tIl
+- Untl
 - Xbd-tl
 - XtIl
 - bd-tl
