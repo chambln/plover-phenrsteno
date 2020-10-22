@@ -15,10 +15,10 @@
 #    with this program; if not, write to the Free Software Foundation, Inc.,
 #    51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
 
-#   | ə p t w     f t S l i |  ~>  | # X p t w     f t S l i |
-#   | s b d r  *  n d g z ə |  ~>  | # s b d r  *  n d g z x |
-#   |                       |  ~>  | #                       |
-#   |      a e   ɪ ʊ        |  ~>  | #      a e   I U        |
+#   | ə p t w     f t ʃ l i |  ~>  | X p t w     f t S l i |
+#   | s b d r  *  n d g z ə |  ~>  | s b d r  *  n d g z x |
+#   |                       |  ~>  |                       |
+#   |      a e   ɪ ʊ        |  ~>  |      a e   I U        |
 
 KEYS = (
     '#',
