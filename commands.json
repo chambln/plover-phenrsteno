@@ -1,0 +1,11 @@
+{
+"bdr-dS": "{:emoji}",
+"ptd*l": "{PLOVER:LOOKUP}{PLOVER:SUSPEND}",
+"ptd-d": "{PLOVER:ADD_TRANSLATION}",
+"ptd-f": "{PLOVER:FOCUS}",
+"ptd-l": "{PLOVER:LOOKUP}",
+"ptd-t": "{PLOVER:TOGGLE}",
+"ptd-tl": "{PLOVER:LOOKUP}{PLOVER:TOGGLE}{PLOVER:LOOKUP}",
+"spba": "{#Backspace}{^}",
+"ta*ftS": "{#Tab}"
+}
