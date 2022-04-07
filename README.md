@@ -28,6 +28,6 @@ Once you're set up, check out the [wiki] and start writing with Phenrsteno!
 
 [Plover]: https://github.com/openstenoproject/plover
 [Plover 4.x.x]: https://github.com/openstenoproject/plover/releases
-[layout-display.json]: layout-display.json
+[layout-display.json]: contrib/layout-display.json
 [layout display plugin]: https://github.com/morinted/plover_layout_display
 [wiki]: https://github.com/chambln/plover-phenrsteno/wiki
