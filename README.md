@@ -26,8 +26,18 @@ dictionaries from this repository.
 
 Once you're set up, check out the [wiki] and start writing with Phenrsteno!
 
+## To-do / wishlist
+
+  - [ ] Support for popular steno machines
+  - [ ] Have the plugin provide this repo's dictionaries to the user on installation
+  - [ ] Implement prefix keys with [prefix support] or using a Python dictionary as a workaround
+  - [ ] Use a corpus of corresponding word-IPA data to generate a fallback dictionary for exact phonetic translations
+  - [ ] Create a 2-key combo table like [this one](https://redd.it/78ei3n)
+
 [Plover]: https://github.com/openstenoproject/plover
 [Plover 4.x.x]: https://github.com/openstenoproject/plover/releases
 [layout-display.json]: contrib/layout-display.json
 [layout display plugin]: https://github.com/morinted/plover_layout_display
 [wiki]: https://github.com/chambln/plover-phenrsteno/wiki
+[prefix support]: https://github.com/openstenoproject/plover/issues/974
+
